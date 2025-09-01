@@ -1,0 +1,678 @@
+record_id,date,first_name,last_name,email,address_1,address_2,city,state,canonical_id,is_duplicate
+r0000563,2024-01-30,Elena,Smirnov,elena.smirnov@mail.ru,улица Arbat rd 44,apt 174,Moscow,Małopolskie,id_00250,False
+r0000398,2023-08-25,Илля,Novak,bkmz.novak+shop@gmail.com,ulitsa Elm 215,,Dubai,zh,id_00174,True
+r0000150,2025-07-02,Mariiya,Kachalov,mariiya.kachalov@yahoo.com,boulevrd central 224 к. 1,,D8abi,SPB,id_00069,True
+r0000186,2024-08-15,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000358,2023-07-02,Alex,Popov,alex.popov@icloud.com,ave Al Wasl 191,,Praha,SPB,id_00159,False
+r0000568,2025-08-13,Maria,Иванов,maria.bdfyjd@yahoo.com,pr-t Pushkina ln. 216,,Берлин,Geneva,id_00252,False
+r0000336,2023-08-22,Ярослав,López,zhjckfd.lópez@icloud.com,бул. Ленина avenue 60 building 1,подъезд 242,Dubai,Moscow Oblast,id_00149,False
+r0000124,2024-12-29,Sasha,Соколов,sasha.cjrjkjd@mail.ru,ave  Zhukova  street  180,,анкт-Петербург,zh,id_00058,True
+r0000003,2023-10-27,Полина,Petrov,gjkbyf.petrov@hotmail.com,street Sheikh Zayed rd 27,ap.-198,Geneva,SAINT PETERSBURG,id_00002,True
+r0000482,2024-06-03,Елена,Качалов,tktyf.rfxfkjd@googlemail.com,boulevard Nevsky ave. 219,,Geneva,Moscow Oblast,id_00211,False
+r0000361,2024-11-01,Ярослав,Hernández,zhjckfd.hernández@gmail.com,бул. Nevsky avenue 221,корпус #271,Zuerich,Moscow Oblast,id_00161,False
+r0000496,2023-06-05,Сfif,Smirnov,alexandersmirnov+12@gmail.com,street  Tverskaya  243,,Dubai,berlin,id_00220,True
+r0000107,2024-09-08,Alyona,Novak,alyona.novak@hotmail.com,проспект Zhukova 112 корпус 3,,Krakow,Berlin,id_00047,False
+r0000640,2025-02-12,Артем,Соколов,fhntv.cjrjkjd@outlook.com,lane Nevsky st. 188 корпус 3,кв.-64,Москва,Lesser Poland,id_00279,False
+r0000117,2024-04-14,Соколов,Kirill,kirill.cjrjkjd@yandex.ru,ave Nevsky st 4,,Берилн,Dubai,id_00053,True
+r0000185,2024-06-17,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000102,2024-06-23,MMaria,Lуиувум,maria.lebedev@gmail.ccom,ulitsa Победы ave. 174,,Бthkby,saint petersburg,id_00045,True
+r0000618,2023-01-02,Denys,Popov,deins.poov@outlook.com,bouulevard Arbat 131 к. 3,,Siant Petersburg,Mazowieckie,id_00268,True
+r0000534,2025-04-08,Aтнф,Иванов,anya.bddfyjd@mail.ru,Blvd победы street 210 bldg 2,,Geneva,Saint Petersburg,id_00235,True
+r0000529,2025-05-03,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000502,2023-04-05,Анна,Dvořák,fyyf.dvořák@outlook.com,avenue Elm ln. 201,,Warsaw,Małopolskie,id_00223,False
+r0000139,2025-04-14,Александр,Sokolov,fktrcfylh.sokolov@icloud.com,ave Elm 238 building 3,ap. #15,Дубай,BE,id_00064,False
+r0000610,2024-04-06,Юkbz,Качалов,kbz.rfxfkjd@yaoho.com,ave Central 215,,дубай,Zurich,id_00265,True
+r0000267,2024-03-07,Денис,Schäfer,ltybc.schäfer@mail.ru,ulitsa Arbat avenue 164 корпус 2,кв. #16,Geneva,MO,id_00123,False
+r0000379,2025-07-05,Алена,NoVaK,tktyt.ovak@hotmail.com,улица Oak rd 24,bldg-74,Kraków,MO,id_00168,True
+r0000070,2024-05-29,Dima,O'connor,dima.o'connor@googlemail.com,пр-т Central street 211,apt  126,Saint Petersburg,BERLIN,id_00028,True
+r0000560,2025-01-14,Аyyf,Petrov,fyyf.petrov@yahoo.cpm,ave Zhukova 61,б.  210,Moscow,Berlin,id_00247,True
+r0000040,2023-03-24,Alexander,Ivanova,alexander.ivanova@proton.me,пер. Al Wasl st. 43 bldg 4,,Kraków,Moscow Oblast,id_00017,True
+r0000231,2024-02-20,Ilya,Лебедев,"ilya.kt,tltd@hotmail.com",st Central rd 235 building 3,подъезд 348,Warsaw,SPB,id_00105,False
+r0000354,2023-06-11,Artemy,Sáтсруя,artem.sánchez@outlook.com,blvd Oak 231,,Москва,GE,id_00158,True
+r0000087,2025-05-05,Denis,O'Connor,denis.o'connor@yahoo.com,lane Elm road 213,,Berlin,Geneva,id_00037,False
+r0000530,2024-09-23,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000623,2023-09-19,Кирилл,Hernández,rbhbkk.hernández@hotmail.com,st Al Wasl ave 225 ap. #242,,Berlin,DXB,id_00271,True
+r0000106,2024-04-07,Alena,Качалов,alena.rfxfkjd@proton.me,pr-t Gafgarina rd 18,кв. #140,Женев,Saint Petersburg,id_00046,True
+r0000188,2024-02-07,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000281,2024-12-05,Anya,Соколов,anya.cjrjkjd+news@googlemai.com,ул Ленина blvd 36,unit-175,Dubi,SPB,id_00128,True
+r0000291,2024-11-25,Dmitry,Kuznetsov,dmitry.kuznetsov@icloud.com,lane Ленина rd 243,,Берлин,SPB,id_00131,False
+r0000654,2023-12-31,Sergei,Novak,sergei.novak@proton.me,пер. Nevsky 34,bldg 303,Geneva,DXB,id_00287,False
+r0000400,2025-08-27,Alex,Kachalov,alex.kachalov@yahoo.com,lane Победы ln. 74 building 1,кв. 55,Dubai,ZH,id_00176,False
+r0000043,2023-12-17,Александр,Garcia,fktrcfylh.garcia@yahoo.com,avenue Tverskaya 150 корпус 3,,Saint Petersburg,SPB,id_00019,False
+r0000491,2023-05-03,Lebedev,Маша,vfhbz.lebedev@outlook.com,lane Maple rd 247,кв. #48,Берлин,Moscow Oblast,id_00217,True
+r0000490,2023-11-26,Lebedev,Маша,vfhbz.lebedev@outlook.com,lane Maple rd 247,кв. #48,Берлин,Moscow Oblast,id_00217,True
+r0000621,2024-03-09,aroslav,Волков,yaroslav.djkrjd@icloud.com,ave Победы road 104,квартира #176,Женева,Masovian,id_00270,True
+r0000407,2025-02-15,NIKOLAI,novak,nikolai.novak@putook.com,пер. Central ave. 20,,МОСКВА,SPB,id_00179,True
+r0000442,2023-08-17,Anna,Иванова,anna.bdfyjdf@yandex.ru,ave Maple 30,подъезд #234,Женева,Masovian,id_00195,False
+r0000609,2023-08-03,Юлия,Качалов,.kbz.rfxfkjd@yahoo.com,avenue Central 215,,Дубай,Zurich,id_00265,False
+r0000295,2025-07-12,Yaroslav,Петро,yaroslav.gtnhjd@outlook.com,Boulevard pushkina 44 к. 3,,Sфште Pуеукыигкп,MO,id_00132,True
+r0000467,2025-07-20,Kirill,Иванов,kirill.bdfyjd@icloud.com,ave Ленина ln. 74 корпус 2,лит. 282,Санкт-Петербург,Berlin,id_00204,False
+r0000396,2023-08-12,Yaroslav,Dvořák,yaroslav.dvořák@mail.ru,blvd Central street 196 building 4,,Dubai,Geneva,id_00173,False
+r0000356,2025-07-06,Alex,Popov,alex.popov@icloud.com,ave Al Wasl 191,,Praha,SPB,id_00159,False
+r0000298,2023-07-26,Nikolay,Ivanova,nikolay.ivanova@proton.me,lane Tverskaya 113 building 4,,Warsaw,Masovian,id_00134,True
+r0000574,2023-09-07,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000544,2024-07-19,Alna,Kovács,alena.kovács@outlook.com,st eNvsky st. 152,,Praha,Dubai,id_00242,True
+r0000499,2023-03-04,Alexei,Kovács,alexei.kovács@mail.ru,pr-t  Arbat  lane  157,кв. 62,Dгифш,Moscow Oblast,id_00222,True
+r0000015,2023-11-25,Качаалов,Ilao,ilia.rfxfkjd@mail.ru,ave Zhukova ve. 110,,Москва,Saint Petersburg,id_00007,True
+r0000191,2023-06-04,Sergei,Kachalov,sergei.kachalov@yandex.ru,улица  Zhukova  122  к.  2,ap. #232,Москва,BE,id_00086,True
+r0000009,2023-07-31,Sergey,Smirnov,sergey.smirnov@mail.ru,проспект Gagarina rd 42,ste 350,Дубай,ZH,id_00004,False
+r0000006,2025-07-31,alexei,Качалов,alexei.rfxfkjd+spam@googlemail.com,ave  Al  Wasl  ave  159,корпус  231,Sфште Pуеукыигкп,ZH,id_00003,True
+r0000394,2024-03-21,Polina,Качалов,polina.rfxfkjd@googlemail.com,Boulevard pushkina boulevard 107,корпус 95,Zuerich,geneva,id_00172,True
+r0000075,2025-02-02,Илья,Novák,bkmz.novák@outlook.com,lane Zhukova boulevard 172 building 2,apt-341,Warsaw,Saint Petersburg,id_00031,False
+r0000177,2024-04-13,Полина,Иванов,gjkbyf.bdfyjd@yahoo.com,lane Central st. 114,,Kraków,Berlin,id_00082,False
+r0000360,2024-06-23,Александр,Kovács,fktrcfylh.kovács@googlemail.com,улица Oak 74,,Kraków,Lesser Poland,id_00160,False
+r0000347,2024-08-28,Ярослав,Иванова,zhjckfd.bdfyjdf@gmail.com,st Nevsky lane 83,,Warsaw,BE,id_00154,False
+r0000413,2025-05-04,Юлия,Novák,.kbz.novák@yahoo.com,pr-t Arbat blvd. 1599,,Dubai,Lesser Poland,id_00183,True
+r0000479,2024-10-18,Nikolay,Novak,nikolay.novak@outlook.com,blvd Zhukova rd 218 building 1,,Berlin,Mazowieckie,id_00210,False
+r0000294,2024-04-27,Dima,KгяТуеыщм,dmotry.kuznetsov@icloud.com,lAne ЛениНа rd 243,,Берлин,SPB,id_00131,True
+r0000193,2024-09-21,Sergei,Kachalov,sergei.kachalov@yandex.ru,улица  Zhukova  122  к.  2,ap. #232,Москва,BE,id_00086,True
+r0000569,2023-08-16,Maria,Иванов,maria.bdfyjd@yahoo.com,pr-t Pushkina ln. 216,,Берлин,Geneva,id_00252,False
+r0000573,2025-04-11,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000352,2025-03-17,Dутны,Соколов,denis.cjrmkjd@gmail.com,"st Nevs,y lane 40 к. 3",unit  169,Zürich,ZH,id_00156,True
+r0000653,2025-06-13,Николай,Dvořák,ybrjkfq.dvořák@yandex.ru,boulevard Победы boulevard 24,,Berlin,Lesser Poland,id_00286,False
+r0000325,2024-10-27,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000093,2024-07-15,Aдутф,СVBHYJD,alena.cvbhyjd@proton.me,пер. maple road 138,,Женева,Moscow Oblqst,id_00040,True
+r0000034,2024-05-17,Sergei,Sщлщдщм,serei.sokolov@gmail.com,ул. Arbat ave 111  builcing 3,,Kraków,Mazowieckie,id_00015,True
+r0000508,2025-05-08,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000362,2023-12-02,Ярослав,Hernández,zhjckfd.hernández@gmail.com,бул. Nevsky avenue 221,корпус #271,Zuerich,Moscow Oblast,id_00161,False
+r0000316,2023-06-14,Anna,O'Connor,anna.o'connor@yahoo.com,ulitsa Central rd 173 корпус 2,unit 323,Женева,Berlin,id_00142,False
+r0000133,2023-01-13,Elena,Smirnov,elena.smirnov@yandex.ru,avenue Arbat blvd. 104 корпус 1,,Praha,Geneva,id_00063,False
+r0000538,2024-12-26,Алексей,Sokolov,fktrctq.sokolov@proton.me,blvd Oak blvd. 33,,Москва,DXB,id_00237,False
+r0000101,2024-10-25,Maríía,Lиувуум,maríía.lbedeev@yahoo.com,ulitsa Победы ave. 174,,Бthkby,Saint Petersburg,id_00045,True
+r0000065,2023-02-18,Дима,López,lvbnhbq.lópez@yahoo.com,pr-t Tverskaya 189,,Москва,GENEVA,id_00027,True
+r0000546,2023-10-04,Alna,Kovács,alena.kovács@outlook.com,st eNvsky st. 152,,Praha,Dubai,id_00242,True
+r0000659,2023-12-11,Alena,Лебедев,"alena.kt,tltd@hotmail.com",ulitsa Al Wasl avenue 226 building 2,,Saint Petersburg,Berlin,id_00288,False
+r0000248,2023-01-25,Ann,Sánchez,annasánchez@googlemail.com,st Sheikh Zayed blve 112,,Dubai,MAŁOPOLSKIE,id_00114,True
+r0000557,2023-11-23,Kirill,Petrov,kirill.petrov@googlemail.com,st Zhukova 243 корпус 2,,Warsaw,ZH,id_00246,False
+r0000181,2023-09-06,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000255,2023-01-11,Kirill,Попов,kirill.gjgjd@yandex.ru,ulitsa Pyshkina rd 62,,Mosco,Lesser Poland,id_00116,True
+r0000137,2024-06-20,Elena,Smirnov,elena.smirnov@yandex.ru,avenue Arbat blvd. 104 корпус 1,,Praha,Geneva,id_00063,False
+r0000582,2024-09-24,Ярослав,Иванова,zhjckfd.bdfyjdf@yahoo.com,улица Gagarina rd 207 корпус 2,,Krakow,Geneva,id_00255,False
+r0000326,2023-06-10,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000469,2025-08-23,Hernández,Alena,alena.hernández@outlook.com,ул. Oak 199 корпус 1,,Dubai,Zurich,id_00206,True
+r0000016,2025-07-15,Дэнис,Петров,lt6bc.gtnnhjd@mail.ru,Пер gagarina road 153 bldg 1,б.-271,Moscow,SAINT PETERSBURG,id_00008,True
+r0000330,2025-08-04,Elena,Novák,elena.novák@yahoo.com,проспект Elm road 81 корпус 2,подъезд-280,Berlin,Geneva,id_00145,False
+r0000307,2023-06-30,ИЛЬЯ,Ivahov,bkmz.ivanov@proton.me,ул. Maple 226,,Москва,Zurich,id_00138,True
+r0000178,2023-11-25,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000309,2025-01-05,ИЛЬЯ,Ivahov,bkmz.ivanov@proton.me,ул. Maple 226,,Москва,Zurich,id_00138,True
+r0000503,2024-10-14,Ilya,Ivanova,ilya.ivanova@mail.ru,ave Zhukova ave. 161 building 1,entrance 29,Дубай,Masovian,id_00224,False
+r0000119,2023-03-24,Аyyf,iмфтщмф,fyyf.ivanova@yandex.ru,boulevard Gagarina avenue 14 корпус 1,,Krakow,zh,id_00055,True
+r0000488,2025-06-29,Артем,Popov,fhntv.popov@icloud.com,улица Zhukova blvd. 27,,Dubai,SPB,id_00215,False
+r0000029,2025-06-27,Атерм,Ivanova,fhntvivanova@mial.com,avenue  Tverskaya  ave  142,,Москва,ZH,id_00013,True
+r0000144,2024-08-24,Alexander,Качалов,alexanderr.fxfkjd@outlook.com,pr-t Arbat st. 216,ап-256,Bукдшт,MAŁOPOLSKIE,id_00065,True
+r0000638,2023-11-19,VOlkov,Kirill,kirillvolkov@gmail.com,lane Elm ave 135,квартира 68,Дуба,Lesser Poland,id_00278,True
+r0000014,2023-04-08,Полина,Ivanova,gjkbyf.ivanova@yahoo.com,street pushkina blvd 81 bldg 22,лит.-170,Brwlin,Dubai,id_00006,True
+r0000367,2024-12-12,Sasha,Schäfer,sasha.schäfer@gmail.com,blvd Maple ave. 197,,Москва,ZH,id_00163,False
+r0000097,2024-04-15,Mariya,Hernández,mariya.hernández@outlook.com,проспект Nevsky 67,,Berlin,Małopolskie,id_00042,False
+r0000313,2024-09-14,Aloyna,Müller,alyonna.müller@yandex.ru,st Ленина ave. 131,entrance 214,dubai,Mazowieckie,id_00140,True
+r0000201,2023-06-06,Alena,heránde,alena.hernández@yandex.ru,blvd  sheikh  zayed  road  223  корпус  2,entrance #215,züкшср,DUBAI,id_00091,True
+r0000602,2023-06-11,IДДНФ,López,ilya.lópez@yaahoo.com,blvd  Tverskaya  50,,Москва,MASOVIAN,id_00263,True
+r0000447,2025-01-27,Ilya,Пtnhjd,ilya.gtnhjd@icloud.com,бул. nevsky rd 144,,Krakow,lesser poland,id_00197,True
+r0000173,2025-03-22,Yaroslav,Ivanova,yaroslav.ivanova@googlemail.com,blvd Al Wasl lane 233 building 3,,Берлин,Geneva,id_00080,False
+r0000238,2025-06-13,Julia,Popov,julia.popov@yandex.ru,st Nevsky 213 building 5,,Praha,ZH,id_00109,False
+r0000393,2023-12-14,Polina,Качалов,polina.rfxfkjd@iclou.dcom,blvd Pushkina blvd 107,кв. #322,Zuerich,Geneav,id_00172,True
+r0000163,2025-08-03,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000585,2024-05-13,Anna,Смирнов,anna.cvbhyjd@yahoo.com,улица Maple boulevard 9 корпус 3,,Дубай,Zurich,id_00256,False
+r0000417,2023-12-19,Iдшф,López,ilia.lópez@mail.ru,street Pushkina l. 44,,Dubai,SPB,id_00186,True
+r0000025,2023-07-28,Mzruya,Kщмáсы,vfhbz.kovács@ynadex.ru,ave Al Wasl blvd. 79,bldg  108,Dubai,Dubai,id_00011,True
+r0000615,2023-04-09,Артем,Smirnov,fhntv.smirnov@icloud.com,boulevard Sheikh Zayed street 183 building 3,,Geneva,BE,id_00267,False
+r0000175,2025-07-27,Maria,Соколов,maria.cjrjkjd@proton.me,бул. Nevsky road 117 корпус 3,,Санкт-Петербург,Geneva,id_00081,False
+r0000304,2025-06-29,Kir8ll,Dvořák,kirill.dvořák@outlook.com,pr-t Al Wasl ave. 108,ап. #163,Geneva,geneva,id_00136,True
+r0000151,2023-06-17,MAriya,Kachalov,mariya.kachalov@icloud.com,boulevard  Central  224  корпус  1,,Dubai,SPB,id_00069,True
+r0000672,2025-01-02,Дмитрий,Sánchez,lvbnhbq.sánchez@proton.me,boulevard Nevsky boulevard 209 building 2,,Zuerich,Berlin,id_00298,False
+r0000509,2023-01-17,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000194,2023-04-10,Yaroslav,Dvořák,yaroslav.dvořák@googlemail.com,ulitsa Tverskaya lane 217,,Warsaw,Dubai,id_00087,False
+r0000540,2025-07-12,Yфкщыдм,Смирнов,yaroslav.cvbhyjd@proton.me,пр-т Maple ln. 123,,Zгукшср,Moscow Oblast,id_00239,True
+r0000401,2024-09-03,Alex,Kachalov,alex.kachalov@yahoo.com,lane Победы ln. 74 building 1,кв. 55,Dubai,ZH,id_00176,False
+r0000288,2024-02-21,Ilya,Кузнецов,ilya.repytwjd@mail.ru,st Al Wasl blvd. 142,,Dubai,BE,id_00130,False
+r0000517,2023-10-29,Maria,Sokolov,maria.sokolov@yandex.ru,бул. Ленина road 126,apt #23,Krakow,Masovian,id_00230,False
+r0000063,2023-01-02,Дмитрий,López,lvbnhbq.lópez@yahoo.com,pr-t Tverskaya 189,,Москва,Geneva,id_00027,False
+r0000385,2024-07-22,Dima,Schäfer,dima.schäfer@googlemail.com,пер. Pushkina boulevard 172 building 5,,Zürich,Zurich,id_00169,False
+r0000286,2025-02-26,Кирилл,Popov,rbhbkk.popov@yandex.ru,lane Zhukova lane 135 корпус 2,apt-65,Saint Petersburg,GE,id_00129,False
+r0000532,2024-11-05,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000252,2025-05-11,Kшкшдд,Соколов,kirill.cjrjkjd@mail.ru,ave Arbat 62 корпус 3,,Moscow,zh,id_00115,True
+r0000228,2024-12-30,Anya,Petrov,anya.petrov@icloud.com,ulitsa Oak 208,кв. #21,Geneva,GE,id_00104,False
+r0000214,2024-07-31,Nikolay,Kovács,nikolay.kovács@maiil.ru,ул. Al Wasl rd 148 bldg 4,bldg #125,Mщысщц,Mazowieckie,id_00098,True
+r0000061,2024-04-01,Dmitry,Lóзуя,lvbnhbq.lópez@hotmail.com,Pr-t tverskaya 189,,Москва,Geneva,id_00027,True
+r0000024,2024-10-16,Mairra,Kovács,vfhbz.kovács@googlemail.com,ave Al Wasl blvd 79,,Dubai,DUBAI,id_00011,True
+r0000415,2023-02-16,Alex,Ivanova,alexivanova+news@googlemail.com,Avenue elm 153 building 5,suite-234,Krakow,Lesser Poland,id_00185,True
+r0000660,2023-05-16,Alexander,Sánchez,alexander.sánchez@yahoo.com,blvd Elm blvd. 191 корпус 3,suite-343,Санкт-Петербург,Małopolskie,id_00289,False
+r0000073,2024-08-17,Elena,Попов,elena.gjgjd@icloud.com,boulevard Elm 99,,Krakow,Moscow Oblast,id_00030,False
+r0000576,2025-03-21,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000044,2023-01-24,Сергей,Иванова,cthutq.bdfyjdf@yahoo.com,blvd Ленина ave. 153,,Züric,Mazowieckie,id_00020,True
+r0000263,2023-08-02,Ilya,Smirnov,ilya.smirnov@hotmail.com,пер. Arbat boulevard 109 корпус 2,,Санкт-Петербург,SPB,id_00121,False
+r0000196,2024-02-07,Mariya,SMirNov,mariy.smirnov@proton.me,bvld Gagarina ave. 141 корпус 2,,Санкт-Петербург,Zurich,id_00088,True
+r0000308,2025-02-18,ИЛЬЯ,Ivahov,bkmz.ivanov@proton.me,ул. Maple 226,,Москва,Zurich,id_00138,True
+r0000159,2025-02-05,ЮЮял,Petrov,.kbz.petroov@outlook.com,street Oak ave 66,,geneva,Masovian,id_00073,True
+r0000114,2023-11-17,Мария,Garcia,vfhbz.garcia@yahoo.com,street Central 191,,Берлин,Saint Petersburg,id_00052,False
+r0000120,2023-10-04,Sergei,Volkov,segrey.volkov@hotmail.com,Пр-т ПобЕды aVe. 110 Корпус 3,,Санкт-Петербург,zurich,id_00056,True
+r0000287,2024-03-04,Кирилл,Popov,rbhbkk.popov@yanddex.ur,lane  Zhukova  lane  135  к.  2,apt-65,Saint Petersburg,GE,id_00129,True
+r0000365,2024-03-05,Sasha,Schäfer,sasha.schäfer@gmail.com,blvd Maple ave. 197,,Москва,ZH,id_00163,False
+r0000526,2025-05-21,Polina,Hernández,polina.hernández@mail.ru,avenue Sheikh Zayed road 180 building 3,,Dubai,Saint Petersburg,id_00232,False
+r0000312,2024-04-14,Aднщтф,Müllerr,alyona.müllerr@yahoo.com,st Ленина ave. 131,,Dubai,Mazowieckie,id_00140,True
+r0000606,2023-07-02,Юлия,Кfxfkjd,.kbz.rfxfkjd@yahoo.com,ave Central 215,ап.  194,Дубай,zurich,id_00265,True
+r0000536,2023-07-26,Мария,Ivanov,vfhbz.ivanov@gmail.com,ulitsa Al Wasl blvd. 57 building 2,entrance 323,Berlin,SPB,id_00236,False
+r0000405,2024-08-05,Yaroslav,Hernández,yaroslav.hernández@yandex.ru,blvd Sheikh Zayed 24 building 4,лит. 29,Дубай,SPB,id_00178,False
+r0000141,2024-11-29,Alexander,Качалов,alexanderr.fxfkjd@outlook.com,pr-t Arbat st. 216,ап-256,Bукдшт,MAŁOPOLSKIE,id_00065,True
+r0000611,2025-07-24,Юkbz,Качалов,kbz.rfxfkjd@yaoho.com,ave Central 215,,дубай,Zurich,id_00265,True
+r0000078,2024-12-21,ILa,OэCщттщк,ilia.o'connor@mail.ru,ulitsa ПобедЫ StReeT 54 к. 3,,Züкшср,geneva,id_00033,True
+r0000322,2024-03-31,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000273,2023-07-24,Yulia,Petrov,yulia.petrov@icloud.com,бул. Central road 81,,Дубай,Geneva,id_00125,False
+r0000633,2025-01-26,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000244,2025-02-07,Sergey,Kachalov,sergey.kachalov@outlook.com,бул. Maple 210,,Санкт-Петербург,Saint Petersburg,id_00111,False
+r0000269,2025-08-05,Алексей,Соколов,fktrctq.cjrjkjd@googlemail.com,пер. Gagarina rd 93,,Praha,GE,id_00124,False
+r0000320,2024-12-31,Александр,Lebedev,fktrcfylh.lebedev@hottmail.com,пр-т Nevsky ln. 162,б. #124,Moscow,GE,id_00143,True
+r0000521,2025-06-02,Alexei,Lbedev,alexei.lebedev@putlook.com,ул. Elm 164 корпус 1,,Dubai,zh,id_00231,True
+r0000468,2024-08-17,Alyona,Качалов,alyona.rfxfkjd@outlook.com,пер. Tverskaya blvd. 185,,Москва,GE,id_00205,False
+r0000420,2023-12-17,Mariya,Смирнов,mariya.cvbhyjd@hotmail.com,ulitsa Maple rd 216,б. 172,Dubai,BE,id_00188,False
+r0000616,2023-12-08,Артем,Smirnov,fhntv.smirnov@icloud.com,boulevard Sheikh Zayed street 183 building 3,,Geneva,BE,id_00267,False
+r0000262,2023-03-30,ССаша,Hernández,ccfif.hernández@outlook.com,blvd  Central  st  32  bldg  3,,Женева,GENEVA,id_00120,True
+r0000549,2024-11-19,Анна,Кfxfkjd,fyyf.5fxfkjd@mail.ru,ave  Nevsky  lane  10,корпус  198,Waarrsaw,Zurich,id_00243,True
+r0000478,2023-07-26,Nikolay,Novak,nikolay.novak@outlook.com,blvd Zhukova rd 218 building 1,,Berlin,Mazowieckie,id_00210,False
+r0000130,2024-07-19,Дмитрий,Волков,lvbnhbq.djkrjd@proton.me,бул. Gagarina lane 235 корпус 1,,Женева,Masovian,id_00061,False
+r0000280,2023-01-13,Anya,Сjrjkjd,anyacjrjkjd+news@gmail.com,ул. Ленина blvd. 36,,DDubaii,SPB,id_00128,True
+r0000384,2024-06-09,Dima,Schäfer,dima.schäfer@googlemail.com,пер. Pushkina boulevard 172 building 5,,Zürich,Zurich,id_00169,False
+r0000558,2023-02-05,Kirill,Petrov,kirill.petrov@googlemail.com,st Zhukova 243 корпус 2,,Warsaw,ZH,id_00246,False
+r0000199,2025-05-04,Aтту,Iмммфтщмф,anna.ivanova@proton.me,улица Al Wasl 24,Ап 285,Warasw,saint petersburg,id_00090,True
+r0000510,2023-11-21,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000329,2023-10-03,Aднщтф,Novák,elena.novák@googlemail.com,пр-т Elm road 81 к. 2 подъезд-280,,Berlin,Geneva,id_00145,True
+r0000257,2025-05-26,Alena,Качалов,alena.rfxfkjd@outlook.com,avenue Al Wasl avenue 45 building 4,кв. 70,Geneva,MO,id_00118,False
+r0000342,2025-05-28,Kirill,Volkov,kirill.volkov@outlook.com,blvd Elm ln. 127 building 2,,Дубай,GE,id_00152,False
+r0000111,2023-09-22,Artemy,Кузнецов,artem.repytwjd@proton.me,пер. Победы rd 72,,Zürich,spb,id_00049,True
+r0000431,2024-08-13,Пjkbyf,O'Connir,gjkbyf.o'connor@yandex.ru,пер. Maple rd 30 к. 1,лит. 197,Geneva,zurich,id_00190,True
+r0000423,2024-04-15,Julia,Dvořák,julia.dvořák@proton.me,lane Ленина lane 81,unit 325,Zuerich,Mazowieckie,id_00189,False
+r0000254,2024-04-27,Kirill,Попов,kirill.gjgjd@yandex.ru,ulitsa Pushkina rd 62,,oscow,LESSER POLAND,id_00116,True
+r0000492,2023-03-18,Мария,Lebedev,vfhbz.lebedev@outlook.com,lane Maple rd 247,,Берлин,Moscow Oblast,id_00217,False
+r0000213,2025-04-07,Alexander,Волков,alexander.djkrjd@gmail.com,lane Maple 34,entrance 37,Москва,Małopolskie,id_00097,False
+r0000350,2025-05-27,Polina,Novak,polina.novak@hotmail.com,avenue Zhukova st. 16,кв.-208,Санкт-Петербург,BE,id_00155,False
+r0000533,2025-06-08,Dmitry,Schäfer,dmitry.schäfer@proton.me,blvd Победы boulevard 179,подъезд 76,Zuerich,Masovian,id_00234,False
+r0000241,2023-05-23,Denis,Смирнов,denis.cvbhyjd@outlook.com,пер. Zhukova blvd. 115,,Geneva,GE,id_00110,False
+r0000266,2023-02-22,Денис,Schäfer,ltybc.schäfer@mail.ru,ulitsa Arbat avenue 164 корпус 2,кв. #16,Geneva,MO,id_00123,False
+r0000555,2024-01-03,Елена,Смирнов,tktyf.cvbhyjd@outlook.com,ave Nevsky 188 building 4,подъезд #71,убай,Lesser Poland,id_00245,True
+r0000435,2025-04-12,Ярослав,Novák,zhjckfd.novák@yahoo.com,avenue Nevsky avenue 157 building 1,,Санкт-Петербург,Berlin,id_00193,False
+r0000459,2024-07-02,Мария,Петров,vfhbz.gtnhjd@hotmail.com,AVenue  ZhukOva  13  1к  2,,Дубай,GENEVA,id_00201,True
+r0000148,2025-06-03,Dшьф,Sánchez,dima.sánchez@gmail.com,st Pushkina road 60,лит. 196,Dubai,geneva,id_00068,True
+r0000437,2025-03-13,Ярослав,Novák,zhjckfd.novák@yahoo.com,avenue Nevsky avenue 157 building 1,,Санкт-Петербург,Berlin,id_00193,False
+r0000429,2023-05-09,Полина,O'Connor,gjkbyf.o'connor@yandex.ru,пер. Maple rd 30 корпус 1,кв. 350,Geneva,Zurich,id_00190,False
+r0000216,2024-02-27,Denis,Volkov,denis.volkov@yahoo.com,lane Central 112 building 1,,Берлин,Mazowieckie,id_00099,False
+r0000156,2024-10-28,Kirill,Кузнецов,kirill.repytwjd@yandex.ru,avenue Maple 63 корпус 2,,Kraków,ZH,id_00072,False
+r0000412,2023-05-07,Елена,Лебедев,"tktyf.kt,tltd@mail.ru",пер. Pushkina ave. 102,,Kraków,Małopolskie,id_00182,True
+r0000321,2023-04-20,Alex,Lуиувум,fktrcfylh.lebedev@hotmail.com,проспект Nevsky ln. 162,,Moscow,ge,id_00143,True
+r0000376,2025-04-11,Кирилл,Hernández,rbhbkk.hernández@yahoo.com,lane Nevsky blvd. 119 building 1,,Zuerich,Berlin,id_00167,False
+r0000089,2023-01-27,Алексей,Попов,fktrctqgjgjd+89@proton.me,pr-t Central ln. 120,корпус  149,Krakwó,Geneva,id_00039,True
+r0000600,2023-08-25,Alex,Kuznetsov,alex.kuznetsov@outlook.com,пер. Победы street 72,suite-69,Geneva,Mazowieckie,id_00261,False
+r0000153,2023-04-12,Polina,Kягтуеыщм,polina.kuznetsov@yahoo.com,boulevard  Zhukova  road  167  к.  2,ste 52,Москва,SPB,id_00070,True
+r0000378,2024-06-26,Елена,Novak,tktyf.novak@googlemail.com,улица Oak rd 24,,Kraków,MO,id_00168,False
+r0000242,2024-04-05,DDenys,Смирнов,denis.cvbhyjd@outlook.com,пер. Zhukova blvd. 115,,gутумф,GE,id_00110,True
+r0000327,2024-02-12,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000149,2023-09-22,dima,Sánchez,dima.sánchez+news@gmail.com,street Pushkina road 60,лит. 196,Dubai,Geneva,id_00068,True
+r0000046,2024-11-13,Polina,Popov,polina.popov@icloud.com,st Gagarina avenue 77,,Санкт-Петербург,SPB,id_00021,False
+r0000421,2023-08-30,Mariya,Смирнов,mariya.cvbhyjd@hotmail.com,ulitsa Maple rd 216,б. 172,Dubai,BE,id_00188,False
+r0000450,2025-01-30,Denis,López,denis.lópez@hotmail.com,street Oak ave. 110,квартира 143,Санкт-Петербург,DXB,id_00198,False
+r0000419,2025-03-23,Nikolai,Smirnov,nikolai.smirnov@googlemail.com,pr-t Победы lane 201,suite 321,Zürich,GE,id_00187,False
+r0000223,2023-08-29,Николай,Ivanova,ybrjkfq.ivanova@gmail.com,проспект Oak avenue 78,,Geneva,GE,id_00102,False
+r0000138,2023-05-11,Александр,Sokolov,fktrcfylh.sokolov@icloud.com,ave Elm 238 building 3,ap. #15,Дубай,BE,id_00064,False
+r0000481,2023-05-25,Елена,Качалов,tktyf.rfxfkjd@googlemail.com,boulevard Nevsky ave. 219,,Geneva,Moscow Oblast,id_00211,False
+r0000514,2024-03-27,ИЛИЯ,Müller,bkmz.müller@outlook.com,пе. Ленина 2,,Moscow,lesser poland,id_00229,True
+r0000131,2025-06-11,Елена,Kuznetsov,tktyf.kuznetsov@googlemail.com,blvd Arbat 85 building 4,unit 340,Москва,GE,id_00062,False
+r0000165,2025-02-21,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000620,2024-10-25,Денис,Kuznetsov,ltybc.kuznetsov@gmail.com,ave Победы avenue 183,suite 30,Warsaw,Dubai,id_00269,False
+r0000578,2025-07-03,Sergey,Петров,sergey.gtnhjd@mail.ru,avenue Maple rd 48,,Berlin,MO,id_00254,False
+r0000198,2024-05-25,Николай,Lóзуя,ybrjkfq.lópez@mail.ru,st Maple rd 212 bldg 4,корпус-112,Berlin,masovian,id_00089,True
+r0000018,2025-06-12,Maria,Hernández,mariahernández+614@gmail.com,blvd  Победы  ave  130,entrance 83,Warswa,GENEVA,id_00010,True
+r0000562,2023-11-06,Волков,Sergei,djkrjd.sergei@yandex.ru,pr-t Central ln. 97 к. 2,,Москва,BE,id_00249,True
+r0000408,2023-07-19,ИЛия,Lebedev,bkmz.lebedev@hotmail.com,blvd Tverskaya 238,,Дубай,ZH,id_00180,True
+r0000103,2024-04-13,Maria,Lebedev,maria.lebedev@gmail.com,ulitsa Победы ave. 174,,Берлин,Saint Petersburg,id_00045,False
+r0000458,2023-12-05,Mфкшф,Петров,vfhbz.gtnhjd@icloud.com,ave Zhukova 131 к. 2,apt 130,Дубай,geneva,id_00201,True
+r0000169,2023-10-13,Dутш,Sьшктщм,denis.smirnov@hotmail.com,blvd Sheikh Zayed boulevard 197,,Geneva,MO,id_00076,True
+r0000649,2025-05-30,Kirill,Петров,kirill.gtnhjd@mail.ru,ulitsa Elm lane 234 bldg 2,,Saint Petersburg,saint petersburg,id_00283,True
+r0000424,2025-04-21,Julia,Dvořák,julia.dvořák@proton.me,lane Ленина lane 81,unit 325,Zuerich,Mazowieckie,id_00189,False
+r0000059,2024-12-24,Sasha,Смирнов,sasha.cvbhyjd@mail.ru,avenue Sheikh Zayed 231,ap. 182,Dubai,ZH,id_00026,False
+r0000463,2023-09-24,Yaroslav,Kovács,yaroslav.kovács@hotmail.com,st  Elm  1126,квартира  19,MOSCOW,geneva,id_00202,True
+r0000537,2024-09-15,Алексей,Sokolov,fktrctq.sokolov@proton.me,blvd Oak blvd. 33,,Москва,DXB,id_00237,False
+r0000256,2023-01-01,Sasha,Novak,sasha.novak@gmail.com,pr-t Central street 192,entrance 124,Warsaw,Dubai,id_00117,False
+r0000079,2024-09-21,Ilia,O'Connor,ilia.'cnnor@outlook.com,ulitsa  ПобЕДы  stReEtT  54к  3,,Zürich,Geneva,id_00033,True
+r0000668,2024-02-04,Alena,O'Connor,alena.o'connor@proton.me,blvd Sheikh Zayed street 141,,Женева,Dubai,id_00295,False
+r0000485,2025-01-13,aдднщтф,Novák,alyona.novák@yahoo.com,blvd Nevsky 102,квартира-274,Санкт-Петербург,MOSCOW OBLAST,id_00213,True
+r0000236,2024-05-16,Julia,Sánchez,julia.sánchez@hotmail.com,улица  Победы  ln  97  к  1,apt 331,Praua,Moscow Oblast,id_00107,True
+r0000210,2025-07-23,Ярослав,Сvbhyjd,zhjckfd.cvbhyjd@googlemail.cm,ulitsa Ленина road 154,,БЕРЛИН,mazowieckie,id_00096,True
+r0000507,2024-12-18,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000057,2023-10-23,Николай,Качалов,ybrjkfq.rfxfkjd@mail.ru,lane Maple ln. 3,,Dubai,Małopolskie,id_00025,False
+r0000511,2023-02-15,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000220,2024-12-28,Елена,Müller,tktyf.müller@googlemail.com,st Arbat ln. 163 корпус 3,квартира-179,Dubai,ZH,id_00100,False
+r0000010,2024-08-02,Nikolay,Popov,nikolay.popov@proton.me,ave Gagarina boulevard 143,,Москва,Mazowieckie,id_00005,False
+r0000662,2024-02-13,Anya,Кузнецов,anna.repytwjd@yandex.ru,blv dGagarina ave 99 к. 3,кв.  46,Дубай,GENEVA,id_00290,True
+r0000677,2024-08-25,Елена,Смирнов,tktyf.cvbhyjd@yahoo.com,проспект Sheikh Zayed 36 корпус 3,unit-281,Zürich,Zurich,id_00299,False
+r0000449,2025-05-20,Ilya,Пtnhjd,ilya.gtnhjd@icloud.com,бул. nevsky rd 144,,Krakow,lesser poland,id_00197,True
+r0000180,2024-11-06,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000202,2025-07-08,Артем,Hernández,fhntv.hernández@mail.ru,улица Central ln. 95 корпус 2,suite 220,Berlin,Moscow Oblast,id_00092,False
+r0000041,2025-08-30,Polina,Kovács,polina.kovács@icloud.com,пер. Sheikh Zayed lane 74 корпус 3,,Zürich,MO,id_00018,False
+r0000311,2024-10-20,Ilia,Смирнов,ilia.cvbhyjd@icloud.com,улица Maple ln. 116 корпус 2,,Praha,Mazowieckie,id_00139,False
+r0000064,2023-06-20,Дима,López,lvbnhbq.lópez@yahoo.com,pr-t Tverskaya 189,,Москва,GENEVA,id_00027,True
+r0000208,2024-09-04,Artem,Popov,artem.popov@outlook.com,pr-t Oak rd 41,,Москва,SPB,id_00094,False
+r0000189,2024-03-28,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000222,2024-01-16,Николай,Ivanova,ybrjkfq.ivanova@gmail.com,проспект Oak avenue 78,,Geneva,GE,id_00102,False
+r0000172,2023-01-12,Alyona,Nщмáл,alona.novák@yahoo.com,lane Gagaarina st 150,,Mщымщц,Mazowieckie,id_00079,True
+r0000440,2025-05-19,Anna,Иванова,anna.bdfyjdf@yandex.ru,ave Maple 30,подъезд #234,Женева,Masovian,id_00195,False
+r0000453,2024-01-07,Elena,Sokolov,elena.sokolov@hotmail.com,проспект Arbat street 172,корпус 313,Санкт-Петербург,Masovian,id_00199,False
+r0000636,2024-12-20,Dvořák,Nikolai,nikolai.dvořák@gmail.com,пр-т Maple 10,suite #215,Zürich,Moscow Oblast,id_00276,True
+r0000092,2023-07-31,Al4na,Смирнов,alena.cvbhyjd@proton.me,пер. Maple road 138,ap.  110,Женева,Moscow Oblast,id_00040,True
+r0000013,2025-01-27,Полина,Ivanova,gjkbyf.ivanova@yahoo.com,street pushkina blvd 81 bldg 22,лит.-170,Brwlin,Dubai,id_00006,True
+r0000212,2025-04-16,Alexander,Волков,alexander.djkrjd@gmail.com,lane Maple 34,entrance 37,Москва,Małopolskie,id_00097,False
+r0000091,2023-06-21,Aдутф,СVBHYJD,alena.cvbhyjd@proton.me,пер. maple road 138,,Женева,Moscow Oblqst,id_00040,True
+r0000084,2024-03-26,Maria,Müller,maria.müller@yandex.ru,pr-t Ленина 206,,Geneva,Mazowieckie,id_00036,False
+r0000416,2023-09-13,Iдшф,López,ilia.lópez@mail.ru,street Pushkina l. 44,,Dubai,SPB,id_00186,True
+r0000539,2023-06-07,Сthuti,Волков,cthuti.djkrjd@proton.me,ULITSA MAPLE AVE 110,ап.-203,Dubai,MO,id_00238,True
+r0000425,2023-10-24,Julia,Dvořák,julia.dvořák@proton.me,lane Ленина lane 81,unit 325,Zuerich,Mazowieckie,id_00189,False
+r0000455,2023-10-26,Elena,Sokolov,elena.sokolov@hotmail.com,проспект Arbat street 172,корпус 313,Санкт-Петербург,Masovian,id_00199,False
+r0000053,2025-08-08,Kovács,Кирилл,rbhbkk.kovács@outlook.com,blVd Arbat 68 к. 1,ап.-140,Zürich,Mazowieckie,id_00023,True
+r0000428,2025-04-24,Пjkbyf,O'Connir,gjkbyf.o'connor@yandex.ru,пер. Maple rd 30 к. 1,лит. 197,Geneva,zurich,id_00190,True
+r0000303,2024-06-08,MФКНШФ,Müller,mariya.müller@hotmail.com,Ave Elm Ln. 28 Bldg 3,,Dгифш,saint petersburg,id_00135,True
+r0000184,2023-12-14,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000359,2024-09-03,Александр,Kovács,fktrcfylh.kovács@googlemail.com,улица Oak 74,,Kraków,Lesser Poland,id_00160,False
+r0000187,2023-12-29,Artem,Lebedev,artem.lebedev@googlemail.com,street Al Wasl st. 85,ste #75,Berlin,DXB,id_00084,False
+r0000158,2024-11-12,Kirill,Кузнецов,kirill.repytwjd@yandex.ru,avenue Maple 63 корпус 2,,Kraków,ZH,id_00072,False
+r0000022,2023-08-21,Mairra,Kovács,vfhbz.kovács@googlemail.com,ave Al Wasl blvd 79,,Dubai,DUBAI,id_00011,True
+r0000561,2024-09-26,Artyom,Sánchez,artyom.sánchez@mail.ru,улица Central street 202,,Geneva,Małopolskie,id_00248,False
+r0000456,2023-10-20,Nikolay,Лебедев,"nikolay.kt,tltd@outlook.com",st Al Wasl avenue 181 корпус 3,,Санкт-Петербург,ZH,id_00200,False
+r0000076,2025-08-06,Илья,Novák,bkmz.novák@outlook.com,lane Zhukova boulevard 172 building 2,apt-341,Warsaw,Saint Petersburg,id_00031,False
+r0000586,2024-09-14,Anna,Смирнов,anna.cvbhyjd@yahoo.com,улица Maple boulevard 9 корпус 3,,Дубай,Zurich,id_00256,False
+r0000019,2024-02-10,Maria,Hernández,maria.hernández@gmail.com,blvd Победы avenue 130,entrance 83,Warsaw,Geneva,id_00010,False
+r0000077,2023-06-15,Anya,Смирнов,anya.cvbhyjd@proton.me,blvd Maple rd 104,квартира 216,Дубай,BE,id_00032,False
+r0000427,2024-04-04,Julia,Dvořák,julia.dvořák@proton.me,lane Ленина lane 81,unit 325,Zuerich,Mazowieckie,id_00189,False
+r0000595,2024-06-06,Полина,Popov,gjkbyf.popov@hotmail.com,st Pushkina ave. 175 building 4,подъезд 122,Женева,Berlin,id_00260,False
+r0000527,2025-05-29,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000219,2024-09-14,Denis,Volkov,denis.volkov@yahoo.com,lane Central 112 building 1,,Берлин,Mazowieckie,id_00099,False
+r0000283,2023-10-02,Anya,Сjrjkjd,anyacjrjkjd+shop@googlemail.com,ул.  Ленина  blvd.  36,,Dubaai,spb,id_00128,True
+r0000426,2023-01-26,Julia,Dvořák,julia.dvořák@proton.me,lane Ленина lane 81,unit 325,Zuerich,Mazowieckie,id_00189,False
+r0000083,2024-04-04,Maria,Müller,maria.müller@yandex.ru,pr-t Ленина 206,,Geneva,Mazowieckie,id_00036,False
+r0000135,2024-09-19,Elena,Smirnov,elena.smirnov@yandex.ru,avenue Arbat blvd. 104 корпус 1,,Praha,Geneva,id_00063,False
+r0000067,2025-08-29,Дмитрий,López,lvbnhbq.lópez@gmail.com,pr-t Tverskaya 189,,Москва,GENEVA,id_00027,True
+r0000171,2025-02-02,Аk`yf,Schäfer,tktyf.schäfer@yandex..ru,ул. Oak 37 bldg 2,entrance  252,Berlin,saint petersburg,id_00078,True
+r0000583,2023-12-28,Ярослав,Иванова,zhjckfd.bdfyjdf@yahoo.com,улица Gagarina rd 207 корпус 2,,Krakow,Geneva,id_00255,False
+r0000023,2023-01-16,Mzruya,Kщмáсы,vfhbz.kovács@ynadex.ru,ave Al Wasl blvd. 79,bldg  108,Dubai,Dubai,id_00011,True
+r0000570,2023-05-10,Maria,Иванов,maria.bdfyjd@yahoo.com,pr-t Pushkina ln. 216,,Берлин,Geneva,id_00252,False
+r0000399,2025-02-02,Masha,Ivanov,masha.ivanov@gmail.com,street Elm lane 96 корпус 3,,Moscow,Małopolskie,id_00175,False
+r0000418,2025-05-01,Nikolai,Smirnov,nikolai.smirnov@googlemail.com,pr-t Победы lane 201,suite 321,Zürich,GE,id_00187,False
+r0000027,2025-07-06,I;ia,Петров,ilia.gtnh@yahoo.com,ave Elm ave. 109,,Gутумф,Saint Petersburg,id_00012,True
+r0000519,2023-08-14,Alexei,Lbedev,alexei.lebedev@putlook.com,ул. Elm 164 корпус 1,,Dubai,zh,id_00231,True
+r0000603,2024-05-11,Полина,Кузнецов,gjkbyf.repytwjd@googlemail.com,проспект Elm road 163,квартира #286,Geneva,DXB,id_00264,True
+r0000259,2025-02-17,Dima,Иванов,dima.bdfyjd@hotmail.com,пер. Ленина 81 bldg 3,лит. 130,Zürich,BE,id_00119,True
+r0000310,2025-04-11,ИЛЬЯ,Ivahov,bkmz.ivanov@proton.me,ул. Maple 226,,Москва,Zurich,id_00138,True
+r0000551,2024-10-01,Елена,Sánchez,tktyf.sánchez@googlemail.com,st Sheikh Zayed rd 16 корпус 1,,Praha,Lesser Poland,id_00244,False
+r0000667,2024-10-14,Nikolay,Kuznetsov,nikolay.kuznetsov@hotmail.com,бул. Sheikh Zayed ave. 154,б. 59,Zuerich,Moscow Oblast,id_00294,False
+r0000108,2024-01-02,Alyona,Novak,alyona.novak@hotmail.com,проспект Zhukova 112 корпус 3,,Krakow,Berlin,id_00047,False
+r0000145,2025-06-29,AТТФ,Соколов,anna.cjrjkjd@fmail.com,пр-т  Elm  99  к.  3,,warrsaw,Berlin,id_00066,True
+r0000140,2025-02-23,Alexander,Качалов,alexande.rrfxfkjd@yandxx.ru,pr-tt Arbst st. 216,ап.-256,Berlin,Małopolskie,id_00065,True
+r0000392,2024-12-06,Polina,Качалов,polina.rfxfkjd@googlemail.com,Boulevard pushkina boulevard 107,корпус 95,Zuerich,geneva,id_00172,True
+r0000317,2025-02-19,Anna,O'Connor,anna.o'connor@yahoo.com,ulitsa Central rd 173 корпус 2,unit 323,Женева,Berlin,id_00142,False
+r0000055,2023-02-28,Denis,Hernández,ltybc.hernández@hotmail.com,ave  Elm  lane  65  building  1,,Dubai,BERLIN,id_00024,True
+r0000525,2024-01-14,Polina,Hernández,polina.hernández@mail.ru,avenue Sheikh Zayed road 180 building 3,,Dubu,Saint Petersburg,id_00232,True
+r0000328,2023-09-20,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000069,2025-06-10,DIMA,O'Connor,dima.o'connor@jomail.com,пр-т Central sstreet 2111,,Saint Petersburg,BERLIN,id_00028,True
+r0000054,2023-06-19,Кирилл,Kovács,rbhbkk.kovács@yahoo.com,blvd Arbat 68 корпус 1,ап.-140,Zürich,Mazowieckie,id_00023,False
+r0000341,2023-04-15,Kirill,Volkov,kirill.volkov@outlook.com,blvd Elm ln. 127 building 2,,Дубай,GE,id_00152,False
+r0000494,2023-09-07,Armey,Kachalov,artemkachalov@googlemail.com,blvd elm st 192,квартира 142,Zuerich,Geneva,id_00218,True
+r0000355,2023-03-07,Alex,Popov,alex.popov@icloud.com,ave Al Wasl 191,,Praha,SPB,id_00159,False
+r0000634,2023-01-30,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000314,2024-09-15,liya,Volkov,ilya.volkov@outloo.kcom,st Pushkina ln. 36,кв.-202,Warsa,GENEVA,id_00141,True
+r0000155,2024-04-20,Денис,Novák,ltybc.novák@gmail.com,ave Ленина boulevard 24,,Москва,Mazowieckie,id_00071,False
+r0000279,2024-01-04,Mariya,Hernández,mariya.hernández@hotmail.com,улица Oak 231,,Дубай,DXB,id_00127,False
+r0000505,2023-03-02,Anna,Кузнецов,anna.repytwjd@googlemail.com,pr-t Nevsky 239 building 1,,Warsaw,Berlin,id_00226,False
+r0000397,2024-12-15,Yaroslav,Dvořák,yaroslav.dvořák@mail.ru,blvd Central street 196 building 4,,Dubai,Geneva,id_00173,False
+r0000146,2025-06-01,Kirill,Garcia,kirill.garcia@hotmail.com,ave Al Wasl ave. 149 building 4,лит.-177,Kraków,GE,id_00067,False
+r0000190,2025-07-19,Ярослав,Hernández,zhjckfd.hernández@mail.ru,ulitsa Nevsky 92,,Berlin,MO,id_00085,False
+r0000126,2024-07-11,Полина,O'Connor,gjkbyf.o'connor@outlook.com,st Arbat 43 корпус 3,,Берлин,Lesser Poland,id_00059,False
+r0000370,2024-05-06,Masha,Novák,masha.novák@hotmail.com,бул. Ленина road 77 корпус 1,кв. 321,Женева,MO,id_00165,False
+r0000179,2023-05-19,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000348,2023-01-25,Яhjckfd,Иванова,zhjckfdbdfyjdf@gmail.com,st  Nevsky  lane  83,корпус  216,Warsaw,BE,id_00154,True
+r0000448,2025-07-04,Ilya,Петров,iltagtnhj@gmail.com,бул. Nevsky rd 144,ste 209,Kкфлщц,Lesser Poland,id_00197,True
+r0000260,2024-07-07,Dima,Иванво,dima.bdfyjd@hptmail.com,пер. Ленина 81 building 3,корпус 216,Zürich,BE,id_00119,True
+r0000591,2024-12-31,Elena,Hernández,elena.hernández@googlemail.com,ave Elm lane 235 корпус 3,,Dubai,Saint Petersburg,id_00258,False
+r0000276,2023-06-19,Mariya,HernÁNDez,mariya.hrejández@hotmail.com,улца Oak 231,,Дубай,DXB,id_00127,True
+r0000457,2024-04-03,Nikolay,Лебедев,"nikolay.kt,tltd@outlook.com",st Al Wasl avenue 181 корпус 3,,Санкт-Петербург,ZH,id_00200,False
+r0000052,2025-03-16,Artem,Kachalov,artem.kachalov@icloud.com,ave Nevsky rd 226,unit 81,Берлин,Moscow Oblast,id_00022,False
+r0000289,2023-12-07,Iдднф,Кepytwjd,ilya.repytwjd@mail.ru,st Al Wasl blvd. 142,,Dubai,BE,id_00130,True
+r0000319,2024-09-23,Александр,Lebedev,fktrcfylh.lebedev@hottmail.com,пр-т Nevsky ln. 162,б. #124,Moscow,GE,id_00143,True
+r0000340,2023-02-19,Sergei,López,sergei.lópez@hotmail.com,st Tverskaya road 202,,Берлин,Saint Petersburg,id_00151,False
+r0000005,2024-03-26,Alexei,Качалов,alexei.rfxfkjd@googlemail.com,ave Al Wasl avenue 159,,Saint Petersburg,ZH,id_00003,False
+r0000038,2024-01-30,Sergei,Sщлщдщм,serei.sokolov@gmail.com,ул. Arbat ave 111  builcing 3,,Kraków,Mazowieckie,id_00015,True
+r0000351,2023-05-30,Deni,Соколов,denis.cjrjkjd@yandex.ru,st Nevsky lane 40 корпус 3,Entrance 213,Zürich,ZH,id_00156,True
+r0000594,2024-02-05,YuLiya,Müller,yulia.müller@mail.tu,ул. Sheikh Zayed street 223 bldg 5 ste 197,,Жнеева,MO,id_00259,True
+r0000154,2024-09-07,Денис,Novák,ltybc.novák@gmail.com,ave Ленина boulevard 24,,Москва,Mazowieckie,id_00071,False
+r0000548,2023-12-01,Аня,Качалов,fyyf.rfxfkjd@mail.ru,ave Nevsky lane 10,,Warsaw,Zurich,id_00243,True
+r0000632,2023-04-03,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000203,2023-12-09,Полина,Sánchez,gjkbyf.sánchez@icloud.com,пер. Победы rd 90,корпус #36,Moscow,SPB,id_00093,False
+r0000404,2023-11-07,Kachalov,Deni,kachalov.deni@yandex.ru,ave Al Wasl rd 69,б. 338,Zгукшср,BE,id_00177,True
+r0000123,2023-01-26,Pщдштф,Novák,polina.novák@outlook.com,ул. Nevsky st. 45,unit  128,gутумф,geneva,id_00057,True
+r0000382,2025-08-10,Алена,NoVaK,tktyt.ovak@hotmail.com,улица Oak rd 24,bldg-74,Kraków,MO,id_00168,True
+r0000475,2023-04-13,Sergey,Volkov,sergey.volkov@googlemail.com,улица Gagarina blvd. 226 корпус 2,,Warsaw,Moscow Oblast,id_00209,False
+r0000641,2024-12-30,Илья,Лебедев,"bkmz.kt,tltd@yandex.ru",ulitsa Pushkina 170,,Санкт-Петербург,Małopolskie,id_00280,False
+r0000134,2025-03-30,Elena,Smirnov,elena.smirnov@yandex.ru,avenue Arbat blvd. 104 корпус 1,,Praha,Geneva,id_00063,False
+r0000651,2023-02-16,Masha,Dvořák,masha.dvořák@mail.ru,улица Sheikh Zayed ln. 20,,Москва,Saint Petersburg,id_00284,False
+r0000268,2024-04-11,Денис,Schäfer,ltybc.schäfer@mail.ru,ulitsa Arbat avenue 164 корпус 2,кв. #16,Geneva,MO,id_00123,False
+r0000290,2023-03-12,IдНф,Кузнецов,ilya.repytwjd@mail.ru,st Al Wasl blvd. 142,,Dubai,BE,id_00130,True
+r0000299,2023-03-24,Nikolay,Iivanova,nikolay.ivanova@rpotn.me,lane Tverskaya 113 bldg 4,,Warsaw,Masovian,id_00134,True
+r0000337,2025-06-10,Ярослав,Lóppez,zhjckfd.lóppez@gmail.com,бул. Ленина avenue 60 bldg 1,подъезд 242,Dubai,Moscow Oblast,id_00149,True
+r0000608,2024-03-27,Юkbz,Качалов,kbz.rfxfkjd@yaoho.com,ave Central 215,,дубай,Zurich,id_00265,True
+r0000528,2024-06-14,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000318,2023-02-20,Александр,Lebedev,fktrcfylh.lebedev@hottmail.com,пр-т Nevsky ln. 162,б. #124,Moscow,GE,id_00143,True
+r0000021,2023-11-01,Mzruya,Kщмáсы,vfhbz.kovács@ynadex.ru,ave Al Wasl blvd. 79,bldg  108,Dubai,Dubai,id_00011,True
+r0000369,2023-09-25,Сергей,Volkov,cthutq.volkov@outlook.com,street Elm st. 194 корпус 1,unit-120,Warsaw,ZH,id_00164,False
+r0000387,2025-01-16,Anna,Kovács,anna.kovács@outlook.com,street Zhukova ave. 181,,Praha,BE,id_00170,False
+r0000500,2024-11-06,Aдуучш,Kщмáсы,alexei.kovács@mail.ru,pr-t Arbat lane 157,лит.  148,Dubai,MOSCOW OBLAST,id_00222,True
+r0000292,2025-01-10,Dшьф,Kгятуеыщм,dima.kuznetsov@gmail.com,lane Ленина rd 243,,Берлин,SPB,id_00131,True
+r0000531,2025-04-25,Maria,Петров,maria.gtnhjd@googlemail.com,проспект Oak rd 105,,Berlin,Saint Petersburg,id_00233,False
+r0000451,2025-04-07,Denis,López,denis.lópez@hotmail.com,street Oak ave. 110,квартира 143,Санкт-Петербург,DXB,id_00198,False
+r0000121,2024-01-31,Pщдштф,Novák,polina.novák@outlook.com,ул. Nevsky st. 45,,Geneva,Geneva,id_00057,True
+r0000346,2024-03-06,Дмитрий,Ivanov,lvbnhbq.ivanov@proton.me,lane Central blvd. 76,,Warsaw,SPB,id_00153,False
+r0000484,2024-09-05,dmitri,Volkov,dmitryvolkov+495@gmail.comm,проспект Tverskaya road 52,кв. 141,Praha,BERLIN,id_00212,True
+r0000305,2023-12-11,Kirill,Dvořák,kirill.dvořák@outlook.com,pr-t Al Wasl ave. 108,,Geneva,Geneva,id_00136,False
+r0000036,2025-04-27,Sergei,Sщлщдщм,serei.sokolov@gmail.com,ул. Arbat ave 111  builcing 3,,Kraków,Mazowieckie,id_00015,True
+r0000663,2025-08-17,Dmitry,Ivanova,dmitry.ivanova@yandex.ru,пер. Oak rd 62,,Zuerich,SPB,id_00291,False
+r0000042,2024-08-24,Kovács,Pщдштф,polina.kovács@icloud.com,пер. Sheikh Zayed lane 74 корпус 3,б. 288,Züirrch,MO,id_00018,True
+r0000261,2023-04-15,Dima,Ивванов,dima.bdfyjd@hotamil.ccom,пер. Ленина 81 bldg 3,unit 202,Zürich,BE,id_00119,True
+r0000381,2023-10-28,Аk`yf,Nщмфл,tktyf.novak@yandex.ru,ул. Oak rd 24,,Kraków,MO,id_00168,True
+r0000523,2025-05-28,Alexei,Lbedev,alexei.lebedev@putlook.com,ул. Elm 164 корпус 1,,Dubai,zh,id_00231,True
+r0000515,2023-06-29,Илья,Müller,bkmz.müller@outlook.com,пер. Ленина 2,,Moscow,Lesser Poland,id_00229,False
+r0000556,2024-06-22,Kirill,Petrov,kirill.petrov@googlemail.com,st Zhukova 243 корпус 2,,Warsaw,ZH,id_00246,False
+r0000245,2024-06-30,Alexei,Müller,alexeimüller@gmail.com,st Победы lanne 232 bldg 5,ste #217,Moscow,Mzłopolskie,id_00112,True
+r0000300,2024-03-21,Nшлщдфн,Ivnova,nikolay.ivanova@proton.me,lane Tverskaya 113 bldg 4,apt-96,Warsaw,Masovian,id_00134,True
+r0000422,2023-01-01,Mariya,Смирнов,mariya.cvbhyjd@hotmail.com,ulitsa Maple rd 216,б. 172,Dubai,BE,id_00188,False
+r0000629,2023-08-16,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000161,2025-01-18,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000535,2023-04-15,Anya,Иdfyjd,anya.bdfyjd@mail.ru,blvd ПобеДы st 210 BuildnIG 2,apt 165,Geneva,saint petersburg,id_00235,True
+r0000444,2023-06-25,Maria,Volkov,maria.volkov@yahoo.com,lane Zhukova lane 82,ap.-12,Санкт-Петербург,DXB,id_00196,False
+r0000278,2023-06-25,Mariya,HernÁNDez,mariya.hrejández@hotmail.com,улца Oak 231,,Дубай,DXB,id_00127,True
+r0000377,2024-03-28,Елена,Novak,tktyf.novak+news@gmail.com,Ул. Oak Rd 24,кв.-221,Kraków,MO,id_00168,True
+r0000635,2024-11-20,Aдучфтвук,Volkov,alexander.volkov@proton.me,ave Леинна blvd. 199,лит. #466,Krakow,MAŁOPOLSKIE,id_00275,True
+r0000030,2025-04-05,Sasha,Hernández,sasha.hernández@yandex.ru,avenue Arbat ln. 61 building 3,квартира #277,Женева,ZH,id_00014,False
+r0000112,2024-12-05,Sergei,Волков,sergei.djkrjd@yahoo.com,бул. Sheikh Zayed st. 177 building 4,,Zuerich,Lesser Poland,id_00050,False
+r0000152,2023-09-24,Polina,Kuznetsov,polina.kuznetsov@yahoo.com,boulevard Zhukova road 167 к. 2,ккорпус 163,Москв,SPB,id_00070,True
+r0000436,2024-01-29,Ярослав,Novák,zhjckfd.novák@yahoo.com,avenue Nevsky avenue 157 building 1,,Санкт-Петербург,Berlin,id_00193,False
+r0000080,2023-04-12,Яhjcfd,Ivanova,zhjckfd.ivanova@gmail.com,Ave Elm Avenue 163,,Zürich,DUBAI,id_00034,True
+r0000250,2023-11-06,Kirill,Соколов,kirill.cjrjkjd@mail.ru,ave Arbat 62 корпус 3,,Moscow,ZH,id_00115,False
+r0000637,2023-06-27,Денис,Garcia,ltybc.garcia@outlook.com,street Ленина boulevard 225,,Saint Petersburg,MO,id_00277,False
+r0000339,2023-01-26,Sergei,López,sergei.lópez@hotmail.com,st Tverskaya road 202,,Берлин,Saint Petersburg,id_00151,False
+r0000614,2023-07-16,Yaroslav,Соколов,yaroslav.cjrjkjd@gmail.com,blvd Ленина street 167,,Dubai,DXB,id_00266,False
+r0000375,2024-01-19,Yaroslav,Novák,yaroslav.novák@yhoo.com,pr-t Sheikh Zayed ln. 82,unit #193,Женеваа,ZH,id_00166,True
+r0000357,2025-06-13,Alex,Popov,alex.popov@icloud.com,ave Al Wasl 191,,Praha,SPB,id_00159,False
+r0000432,2025-05-08,Kirill,O'Connor,kirill.o'connor@proton.me,lane Arbat blvd. 204 building 4,,Berlin,Dubai,id_00191,False
+r0000587,2023-02-04,Anna,Смирнов,anna.cvbhyjd@yahoo.com,улица Maple boulevard 9 корпус 3,,Дубай,Zurich,id_00256,False
+r0000233,2024-01-11,Ilya,Лебедев,"ilya.kt,tltd@hotmail.com",st Central rd 235 building 3,подъезд 348,Warsaw,SPB,id_00105,False
+r0000403,2024-05-13,Alex,Kachalov,alex.kachalov@yahoo.com,lane Победы ln. 74 building 1,кв. 55,Dubai,ZH,id_00176,False
+r0000483,2023-12-23,Dmitry,Volkov,dmitry.volkov@googlemail.com,проспект Tverskaya road 52,кв. 141,Praha,Berlin,id_00212,False
+r0000136,2023-11-15,Elena,Smirnov,elena.smirnov@yandex.ru,avenue Arbat blvd. 104 корпус 1,,Praha,Geneva,id_00063,False
+r0000200,2023-07-17,Aтту,Iмммфтщмф,anna.ivanova@proton.me,улица Al Wasl 24,Ап 285,Warasw,saint petersburg,id_00090,True
+r0000002,2023-05-23,Темыч,Kфсрфдщм,fhntv.kachalov@hotmail.com,blvd Tverskaya ln. 51,,Дубай,Małopolskie,id_00001,True
+r0000195,2025-01-10,Mariya,Smirnov,mariya.smirnov@prton.me,boulevard Gagarina ave. 141 к. 2,entrance-293,Санкт-Петербург,zurich,id_00088,True
+r0000085,2025-05-28,Maria,Müller,maria.müller@yandex.ru,pr-t Ленина 206,,Geneva,Mazowieckie,id_00036,False
+r0000486,2024-11-02,Anna,Ivanova,anna.ivanova@googlemail.com,st Pushkina st. 133,подъезд 62,Dubai,Geneva,id_00214,False
+r0000584,2025-01-08,Ярослав,Иванова,zhjckfd.bdfyjdf@yahoo.com,улица Gagarina rd 207 корпус 2,,Krakow,Geneva,id_00255,False
+r0000473,2025-07-01,АЛександр,Smirnovv,fktrcfylh.smirnov@proton.me,blvd Nevsky blvd 222,ап. 19,Dubai,BERLIN,id_00208,True
+r0000524,2024-05-21,Polina,Hernández,polina.hernández@mail.ru,avenue Sheikh Zayed road 180 building 3,,Dubai,Saint Petersburg,id_00232,False
+r0000601,2023-12-28,Sergei,Лебедев,"sergei.kt,tltd@mail.ru",blvd Arbat st. 114 building 2,,Берлин,Lesser Poland,id_00262,True
+r0000504,2023-11-29,Polina,Müller,polina.müller@gmail.com,улица Pushkina avenue 186 корпус 1,,Moscow,ZH,id_00225,False
+r0000086,2023-03-04,Denis,O'Connor,denis.o'connor@yahoo.com,lane Elm road 213,,Berlin,Geneva,id_00037,False
+r0000477,2024-05-17,Nikolay,Novak,nikolay.novak@outlook.com,blvd Zhukova rd 218 building 1,,Berlin,Mazowieckie,id_00210,False
+r0000386,2024-01-07,Dima,Schäfer,dima.schäfer@googlemail.com,пер. Pushkina boulevard 172 building 5,,Zürich,Zurich,id_00169,False
+r0000048,2025-08-07,Artem,Kachalov,artem.kachalov@icloud.com,ave Nevsky rd 226,unit 81,Берлин,Moscow Oblast,id_00022,False
+r0000008,2023-08-31,Sergey,Smirnov,sergey.smirnov@mail.ru,проспект Gagarina rd 42,ste 350,Дубай,ZH,id_00004,False
+r0000472,2025-05-07,Александр,Smirnov,fktrcfylh.smirnov@proton.me,blvd Nevsky boulevard 222,,Dubai,Berlin,id_00208,False
+r0000334,2024-08-17,Yaroslav,Smirnov,yaroslav.smirnov@gmail.com,lane Oak st. 52 корпус 2,ste 71,Zuerich,ZH,id_00148,False
+r0000675,2023-10-21,Елена,Смирнов,tktyf.cvbhyjd@yahoo.com,проспект Sheikh Zayed 36 корпус 3,unit-281,Zürich,Zurich,id_00299,False
+r0000445,2025-06-28,Maria,Volkov,maria.volkov@yahoo.com,lane Zhukova lane 82,ap.-12,Санкт-Петербург,DXB,id_00196,False
+r0000674,2023-05-03,Дмитрий,Sánchez,lvbnhbq.sánchez@proton.me,boulevard Nevsky boulevard 209 building 2,,Zuerich,Berlin,id_00298,False
+r0000462,2023-01-14,Yaroslav,Kovács,yaroslav.kovács@mail.ru,st Elm 126,,Moscow,Geneva,id_00202,False
+r0000227,2023-06-27,Anya,Petrov,anya.petrov@iclou.com,ulitsa Oak 208,кв. #21,gутумф,ge,id_00104,True
+r0000039,2023-03-05,Artyom,Sokoov,artyom.sokolov@gmail.com,st Elm lane 36,,Санкт-Петербург,mo,id_00016,True
+r0000438,2023-09-28,Ярослав,Novák,zhjckfd.novák@yahoo.com,avenue Nevsky avenue 157 building 1,,Санкт-Петербург,Berlin,id_00193,False
+r0000237,2023-09-23,Кbbhkk,Пеетров,rbhbkk.gtnhjd@outlook.com,street Central blvd. 125,,Москва,mazowieckie,id_00108,True
+r0000476,2023-02-18,Sergey,Volkov,sergey.volkov@googlemail.com,улица Gagarina blvd. 226 корпус 2,,Warsaw,Moscow Oblast,id_00209,False
+r0000567,2024-01-01,Maria,Иванов,maria.bdfyjd@yahoo.com,pr-t Pushkina ln. 216,,Берлин,Geneva,id_00252,False
+r0000454,2024-06-25,Elena,Sokolov,elena.sokolov@hotmail.com,проспект Arbat street 172,корпус 313,Санкт-Петербург,Masovian,id_00199,False
+r0000622,2023-06-29,aroslav,Волков,yaroslav.djkrjd@icloud.com,ave Победы road 104,квартира #176,Женева,Masovian,id_00270,True
+r0000230,2023-12-14,Ilya,Лебедев,"ilya.kt,tltd@hotmail.com",st Central rd 235 building 3,подъезд 348,Warsaw,SPB,id_00105,False
+r0000590,2023-02-19,Mariya,Иванов,mariya.bdfyjd@icloud.com,pr-t Arbat avenue 112,,Kraków,Lesser Poland,id_00257,False
+r0000652,2023-10-01,Hernández,Sфырф,sasha.hernndez@hotmail.com,ave Central blvd. 147,,Дубай,MAZOWIECKIE,id_00285,True
+r0000099,2025-02-23,Denis,Petrov,denis.petrov@outlook.com,street Nevsky lane 172,,Санкт-Петербург,DXB,id_00044,False
+r0000630,2024-07-15,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000056,2025-02-15,Николай,Качалов,ybrjkfq.rfxfkjd@mail.ru,lane Maple ln. 3,,Dubai,Małopolskie,id_00025,False
+r0000410,2024-07-28,Илья,Kuznetsov,bkmz.kuznetsov@googlemail.com,pr-t Sheikh Zayed boulevard 36,,Krakow,ZH,id_00181,False
+r0000497,2025-02-21,Alexander,Smirnov,alexander.smirnov@googlemail.com,street Tverskaya 243,,Dubai,Berlin,id_00220,False
+r0000373,2024-07-08,Yarowlav,Nvák,yaroslav.novák@yahoo.coom,pr-t Sheikh Zayed ln. 82,unit #193,Женева,ZH,id_00166,True
+r0000207,2023-09-11,Aкенщь,Pipov,artem.popov@outlook.com,pr-tO ak rd 41,,Москва,SPB,id_00094,True
+r0000032,2024-02-14,Hуктáьвя,Sasha,sasha.hernández@yandex.ru,ave Arbat ln. 61 bldg 3,квартиар #27,Женвееа,zh,id_00014,True
+r0000051,2023-03-07,Artem,Kachalov,artem.kachalov@icloud.com,ave Nevsky rd 226,unit 81,Берлин,Moscow Oblast,id_00022,False
+r0000331,2024-04-11,Artyom,Smirnov,artyom.smirnov@googlemail.com,бул. Победы st. 242,,Berlin,BE,id_00146,False
+r0000335,2025-05-16,Yaroslav,Smirnov,yaroslav.smirnov@gmail.com,lane Oak st. 52 корпус 2,ste 71,Zuerich,ZH,id_00148,False
+r0000642,2024-12-26,Sergey,Иванова,sergey.bdfyjdf@proton.me,бул. Победы lane 180,bldg 177,Berlin,Dubai,id_00281,True
+r0000658,2025-03-22,Sergei,Novak,sergei.novak@proton.me,пер. Nevsky 34,bldg 303,Geneva,DXB,id_00287,False
+r0000612,2025-02-24,Yaroslav,Соколов,yaroslav.cjrjkjd@proton.me,blvd Ленина st 617,,Dubai,DXB,id_00266,True
+r0000443,2023-07-26,Aтт,Иванова,anna.bdfyjdf@gmail.com,ave MapLE 30,ап. 62,Женева,MASOVIAN,id_00195,True
+r0000240,2025-01-19,Dneis,Сvbhyjd,denis.cvbhyjd@outlook.com,пер  Zhukova  blvd  115,,Geneva,GE,id_00110,True
+r0000211,2023-08-03,ярослав,ССvbhyjd,zhjckfdcvbhyjd+news@gmail.com,ulitsa  Ленина  road  154,,ерлин,mazowieckie,id_00096,True
+r0000543,2024-12-05,Пjkbyf,Иванов,gjkbyf.bdfyjd@yahoo.com,пер Oak ln 92,,Москва,zh,id_00241,True
+r0000182,2024-08-18,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000643,2025-05-25,Sregey,Иdfjdf,sergey.bdfyjdf@yandex.ru,бУл. Победы Lane 180,ste 104,Berlin,dubai,id_00281,True
+r0000338,2024-09-07,Dmitriy,Пjgjd,dmitry.gjgjd@mail.ru,blvd Oak lane 167,б.  117,Zuerich,MO,id_00150,True
+r0000050,2024-12-02,Artem,Kachalov,artem.kachalov@icloud.com,ave Nevsky rd 226,unit 81,Берлин,Moscow Oblast,id_00022,False
+r0000627,2024-04-10,Denis,Lebedev,ltybc.lebedev@mail.ru,blvd Pushkina 121,ste #179,Москва,DUBAI,id_00273,True
+r0000098,2025-03-18,Alexei,Волков,alexei.djkrjd@gmail.com,ulitsa Zhukova ln. 14,,Zuerich,Zurich,id_00043,False
+r0000209,2024-01-16,Николай,Novák,ybrjkfq.novák@icloud.com,pr-t Oak ave. 114,,Берлин,Geneva,id_00095,False
+r0000414,2025-08-25,Alyona,Иванова,alyona.bdfyjdf@googlemail.com,улица Tverskaya street 114,,Geneva,Małopolskie,id_00184,False
+r0000466,2023-11-18,Kirill,Иванов,kirill.bdfyjd@icloud.com,ave Ленина ln. 74 корпус 2,лит. 282,Санкт-Петербург,Berlin,id_00204,False
+r0000402,2023-06-22,Alex,Kachalov,alex.kachalov@yahoo.com,lane Победы ln. 74 building 1,кв. 55,Dubai,ZH,id_00176,False
+r0000125,2024-11-11,Sasha,Соколов,sasha.cjrjkjd@mail.u,ave Zhukova street 180,unit #238,"Сfyrn-Пtnth,ehu",zh,id_00058,True
+r0000243,2023-05-02,Sergey,Kachalov,sergey.kachalov@outlook.com,бул. Maple 210,,Санкт-Петербург,Saint Petersburg,id_00111,False
+r0000296,2023-04-14,Yarooslav,Петров,yaroslav.gtnhjd@outlook.com,blvd Pushkina 44 к.. 3,,Saint Petersburg,mo,id_00132,True
+r0000293,2023-06-19,Dima,KгяТуеыщм,dmotry.kuznetsov@icloud.com,lAne ЛениНа rd 243,,Берлин,SPB,id_00131,True
+r0000452,2024-01-26,Denis,López,denis.lópez@hotmail.com,street Oak ave. 110,квартира 143,Санкт-Петербург,DXB,id_00198,False
+r0000572,2024-02-08,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000589,2024-10-28,Mariya,Иванов,mariya.bdfyjd@icloud.com,pr-t Arbat avenue 112,,Kraków,Lesser Poland,id_00257,False
+r0000599,2023-07-03,Alex,Kuznetsov,alex.kuznetsov@outlook.com,пер. Победы street 72,suite-69,Geneva,Mazowieckie,id_00261,False
+r0000110,2024-05-02,Artyom,OэCщттщк,artyom.o'connor@yanedx.ruu,ул. Победы lanee 63 корпус 3,,Warsaw,DXB,id_00048,True
+r0000249,2024-05-15,Kшкшдд,Соколов,kirill.cjrjkjd@mail.ru,ave Arbat 62 корпус 3,,Moscow,zh,id_00115,True
+r0000343,2025-05-17,Kirill,Volkov,kirill.volkov@outlook.com,blvd Elm ln. 127 building 2,,Дубай,GE,id_00152,False
+r0000579,2023-12-23,SERGEY,Петров,sergey.gtnhjd@yahoo.com,ave Maple rd 48,,Berlin,MO,id_00254,True
+r0000122,2023-05-08,Pщдштф,Novák,polina.novák@outlook.com,ул. Nevsky st. 45,unit  128,gутумф,geneva,id_00057,True
+r0000264,2024-04-18,Ilya,Smirnov,ilya.smirnov@hotmail.com,пер. Arbat boulevard 109 корпус 2,,Санкт-Петербург,SPB,id_00121,False
+r0000489,2025-02-06,Yulia,Ivanov,yulia.ivanov@mail.ru,boulevard Gagarina 113,,Saint Petersburg,Saint Petersburg,id_00216,False
+r0000516,2024-04-17,Илья,Müller,bkmz.müller@outlook.com,пер. Ленина 2,,Moscow,Lesser Poland,id_00229,False
+r0000441,2023-12-27,Anna,Иванова,anna.bdfyjdf@yandex.ru,ave Maple 30,подъезд #234,Женева,Masovian,id_00195,False
+r0000017,2023-05-11,Полина,Müller,gjkbyf.müller@icloud.com,blvd Central 76 building 4,,Berlin,DXB,id_00009,False
+r0000464,2024-09-03,Dima,O'Connor,dima.o'connor@yahoo.com,pr-t Elm ln. 168 building 4,,Saint Petersburg,Moscow Oblast,id_00203,False
+r0000035,2024-01-09,Sergei,Sщлщдщм,serei.sokolov@gmail.com,ул. Arbat ave 111  builcing 3,,Kraków,Mazowieckie,id_00015,True
+r0000493,2024-08-29,eTmmo,Kachalov,artemkachalov+shop@gmail.com,blvd  Elm  st  129,,Zгукшср,Geneva,id_00218,True
+r0000664,2024-08-28,Николай,Schäfer,ybrjkfq.schäfer@gmail.com,boulevard Oak 220,,Kraków,Małopolskie,id_00292,False
+r0000624,2023-05-10,Yaroslav,Ivanova,yaroslav.ivanova@gmail.com,street Central st. 191,,Санкт-Петербург,Geneva,id_00272,False
+r0000363,2023-02-07,Ярослав,Hernández,zhjckfd.hernández@gmail.com,бул. Nevsky avenue 221,корпус #271,Zuerich,Moscow Oblast,id_00161,False
+r0000037,2024-08-05,Sergei,Sokolov,sergei.sokolov@googlemail.com,улица Arbat avenue 111 building 3,,Kraków,Mazowieckie,id_00015,False
+r0000545,2025-08-11,Alna,Kovács,alena.kovács@outlook.com,st eNvsky st. 152,,Praha,Dubai,id_00242,True
+r0000565,2023-08-20,Elena,Smirnov,elena.smirnov@mail.ru,улица Arbat rd 44,apt 174,Moscow,Małopolskie,id_00250,False
+r0000495,2023-12-26,Ilya,López,ilya.lópez@googlemail.com,ulitsa Central rd 34 building 4,,Saint Petersburg,Moscow Oblast,id_00219,False
+r0000554,2024-04-16,Елена,Sánchez,tktyf.sánchez@googlemail.com,st Sheikh Zayed rd 16 корпус 1,,Praha,Lesser Poland,id_00244,False
+r0000284,2023-05-31,Anya,Соколов,anya.cjrjkjd+news@googlemai.com,ул Ленина blvd 36,unit-175,Dubi,SPB,id_00128,True
+r0000302,2024-08-02,MФКНШФ,Müller,mariya.müller@hotmail.com,Ave Elm Ln. 28 Bldg 3,,Dгифш,saint petersburg,id_00135,True
+r0000011,2025-05-09,Nikolay,Popov,nikolay.popov@proton.me,ave Gagarina boulevard 143,,Москва,Mazowieckie,id_00005,False
+r0000174,2025-01-05,Maria,Соколов,maria.cjrjkjd@proton.me,бул. Nevsky road 117 корпус 3,,Санкт-Петербург,Geneva,id_00081,False
+r0000593,2024-02-06,Elena,Hernández,elena.hernández@googlemail.com,ave Elm lane 235 корпус 3,,Dubai,Saint Petersburg,id_00258,False
+r0000116,2024-10-11,Мария,Garcia,vfhbz.garcia@yahoo.com,street Central 191,,Берлин,Saint Petersburg,id_00052,False
+r0000127,2023-04-09,Anya,Качалов,anya.rfxfkjd@gmail.com,проспект Oak 154,,Moscow,Berlin,id_00060,False
+r0000062,2024-07-27,Дмитрий,López,lvbnhbq.lópez@yahoo.com,pr-t Tverskaya 189,,Москва,Geneva,id_00027,False
+r0000232,2024-04-22,Ilya,Лебедев,"ilya.kt,tltd@hotmail.com",st Central rd 235 building 3,подъезд 348,Warsaw,SPB,id_00105,False
+r0000265,2023-02-25,Ярослав,Смирнов,zhjckfd.cvbhyjd@outlook.com,ave Oak ave. 184 building 4,entrance 229,Praha,Małopolskie,id_00122,False
+r0000461,2023-10-18,Yarolav,kovács,yaroslav.kovács@mail.ru,st Elm 126,,Moscow,Geneva,id_00202,True
+r0000598,2023-09-06,Alex,Kuznetsov,alex.kuznetsov@outlook.com,пер. Победы street 72,suite-69,Geneva,Mazowieckie,id_00261,False
+r0000192,2023-04-09,Sergei,aKchalov,srbei.kachalov@yandex.ru,ул  Zhukova  122  корпус  2,ap. #232,Мосва,BE,id_00086,True
+r0000596,2023-03-26,Полина,Popov,gjkbyf.popov@hotmail.com,st Pushkina ave. 175 building 4,подъезд 122,Женева,Berlin,id_00260,False
+r0000344,2025-08-05,Дмитрий,Ivanov,lvbnhbq.ivanov@proton.me,lane Central blvd. 76,,Warsaw,SPB,id_00153,False
+r0000205,2023-09-23,Полина,Sánchez,gjkbyf.sánchez@icloud.com,пер. Победы rd 90,корпус #36,Moscow,SPB,id_00093,False
+r0000644,2024-06-05,Maria,Kachalov,maria.kachalov@proton.me,lane Pushkina 73 building 1,,Zürich,Masovian,id_00282,False
+r0000366,2023-03-16,Sasha,Schäfer,sasha.schäfer@gmail.com,blvd Maple ave. 197,,Москва,ZH,id_00163,False
+r0000206,2023-03-12,Полина,Sánchez,gjkbyf.sánchez@icloud.com,пер. Победы rd 90,корпус #36,Moscow,SPB,id_00093,False
+r0000588,2023-07-13,Mariya,Иванов,mariya.bdfyjd@icloud.com,pr-t Arbat avenue 112,,Kraków,Lesser Poland,id_00257,False
+r0000434,2025-07-10,Sergey,Ivanova,sergey.ivanova@yahoo.com,проспект Pushkina lane 150 корпус 3,,Saint Petersburg,Saint Petersburg,id_00192,False
+r0000580,2024-02-06,Sergey,Петров,sergey.gtnhjd@mail.ru,avenue Maple rd 48,,Berlin,MO,id_00254,False
+r0000170,2024-10-18,IVANOVA,Mфкшнф,mariya.ivanova@outlook.com,ave  Central  blvd  107,,Berlin,GENEVA,id_00077,True
+r0000487,2025-03-07,Anna,Ivanova,anna.ivanova@googlemail.com,st Pushkina st. 133,подъезд 62,Dubai,Geneva,id_00214,False
+r0000132,2025-03-18,Елена,Kuznetsov,tktyf.kuznetsov@googlemail.com,blvd Arbat 85 building 4,unit 340,Москва,GE,id_00062,False
+r0000129,2023-06-04,Дмтирий,Волков,lvbnhbq.djkrjd@gmail.com,бул. gagarina lane 235 к. 1,,Женева,Masovian,id_00061,True
+r0000071,2025-04-04,Yaroslav,Kachalov,yaroslav.kachalov@hotmail.com,pr-t Gagarina ln. 85,,Санкт-Петербург,Małopolskie,id_00029,False
+r0000498,2025-03-26,Кирилл,Ivanova,rbhbkk.ivanova@gmail.com,БУЛ ЛЕНИНА BLVD 40 BUILDING 5,подъезд #232,Zuerich,mo,id_00221,True
+r0000088,2025-05-21,полина,Volkov,gjkbyf.volkov@googlemail.com,ул. Zhukova trete 61,,Kraków,Dubai,id_00038,True
+r0000628,2024-08-03,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000247,2023-04-11,Ann,Sánchez,annasánchez@googlemail.com,st Sheikh Zayed blve 112,,Dubai,MAŁOPOLSKIE,id_00114,True
+r0000060,2023-07-24,sasha,Симрнов,sasha.cbvhyjd@outlook.com,ave sheikh zayed 231,aap. 182,Dubai,zh,id_00026,True
+r0000246,2024-07-12,Сергей,Kxchalov,cthutq.kxchalov@outlook.com,avenue Ленина road 21,лит.-58,Dubai,MO,id_00113,True
+r0000315,2024-06-30,Ilya,Volkov,ilya.volkov@outlook.cmo,st Pushkina ln. 36,кв.-202,Warsaw,Geneva,id_00141,True
+r0000372,2024-09-22,Masha,Novák,masha.novák@hotmail.com,бул. Ленина road 77 корпус 1,кв. 321,Женева,MO,id_00165,False
+r0000553,2024-05-22,Елена,Sánchez,tktyf.sánchez@googlemail.com,st Sheikh Zayed rd 16 корпус 1,,Praha,Lesser Poland,id_00244,False
+r0000020,2024-09-24,Hуктáтвуя,Masha,mariahernández+437@gmail.com,blvd Победы ave 130,entrance 83,Warsaw,geneva,id_00010,True
+r0000501,2023-07-15,Анна,Dvořák,fyyf.dvořák@outlook.com,avenue Elm ln. 201,,Warsaw,Małopolskie,id_00223,False
+r0000332,2023-11-23,Artyom,Smirnov,artyom.smirnov@googlemzil.com,Бул. победы st. 242,,Berlin,BE,id_00146,True
+r0000001,2023-10-04,Денис,Иванова,ltybc.bdfyjdf@yahoo.com,ulitsa Zhukova street 63,,Moscow,SPB,id_00000,False
+r0000166,2023-12-28,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000383,2025-05-11,Dima,Schäfer,dima.schäfer@googlemail.com,пер. Pushkina boulevard 172 building 5,,Zürich,Zurich,id_00169,False
+r0000564,2024-09-03,Elena,Smirnov,elena.smirnov@mail.ru,улица Arbat rd 44,apt 174,Moscow,Małopolskie,id_00250,False
+r0000656,2024-11-18,Sergei,Novak,sergei.novak@proton.me,пер. Nevsky 34,bldg 303,Geneva,DXB,id_00287,False
+r0000541,2025-05-16,Yaroslav,Смирнов,yaroslav.cvbhyjd@proton.me,проспект Maple ln. 123,,Zuerich,Moscow Oblast,id_00239,False
+r0000306,2024-06-11,Анна,Ivanov,fyyf.ivanov@outlook.com,улица Maple ln. 118 корпус 1,,Женева,Geneva,id_00137,False
+r0000109,2023-11-07,artyom,O'Connor,artyom.o'connor@yandex.ru,улица Победы lane 63 корпус 3,,warsaw,DXB,id_00048,True
+r0000520,2025-06-18,Alexei,Lbedev,alexei.lebedev@putlook.com,ул. Elm 164 корпус 1,,Dubai,zh,id_00231,True
+r0000183,2023-12-09,Мария,Dvořák,vfhbz.dvořák@icloud.com,проспект Arbat avenue 55,подъезд #125,Zürich,SPB,id_00083,False
+r0000513,2023-05-30,Кbhkk,Kuznetsov,rbhbkk.kuznetsov@yahoo.com,ул. Elm lane 3,,Praha,GENEVA,id_00228,True
+r0000577,2024-02-19,Sergey,Петров,sergey.gtnhjd@mail.ru,avenue Maple rd 48,,Berlin,MO,id_00254,False
+r0000004,2025-03-09,Полина,Petrov,gjkbyf.petrov@hotmail.com,street Sheikh Zayed rd 27,ap.-198,Geneva,SAINT PETERSBURG,id_00002,True
+r0000613,2023-01-05,Yaroslav,Соколов,yaroslav.cjrjkjd@gmail.com,blvd Ленина street 167,,Dubai,DXB,id_00266,False
+r0000162,2024-06-04,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000446,2024-12-30,Ilya,Петров,iltagtnhj@gmail.com,бул. Nevsky rd 144,ste 209,Kкфлщц,Lesser Poland,id_00197,True
+r0000626,2023-07-30,Yaroslav,Ivanova,yaroslav.ivanova@gmail.com,street Central st. 191,,Санкт-Петербург,Geneva,id_00272,False
+r0000676,2024-05-23,Елена,Смирнов,tktyf.cvbhyjd@yahoo.com,проспект Sheikh Zayed 36 корпус 3,unit-281,Zürich,Zurich,id_00299,False
+r0000646,2024-11-09,Maria,Kachalov,maria.kachalov@proton.me,lane Pushkina 73 building 1,,Zürich,Masovian,id_00282,False
+r0000607,2025-01-25,Юkbz,Качалов,kbz.rfxfkjd@yaoho.com,ave Central 215,,дубай,Zurich,id_00265,True
+r0000631,2023-04-20,Dima,Kuznetsov,dima.kuznetsov@gmail.com,pr-t Pushkina lane 37,apt-250,Дубай,Mazowieckie,id_00274,False
+r0000118,2025-06-20,Maria,Hernández,maria.hernández@proton.me,ulitsa Pushkina street 121,,Санкт-Петербург,SPB,id_00054,False
+r0000012,2023-07-11,Nikolay,Popov,nikolay.popov@proton.me,ave Gagarina boulevard 143,,Москва,Mazowieckie,id_00005,False
+r0000258,2023-11-19,Dima,Ивванов,dima.bdfyjd@hotamil.ccom,пер. Ленина 81 bldg 3,unit 202,Zürich,BE,id_00119,True
+r0000542,2023-10-17,Alena,Волков,alenadjkrjd+shop@gmail.com,Бул. SHeikh Zaeyd laNe 89,,Warsaw,ZH,id_00240,True
+r0000480,2024-01-25,Елена,Качалов,tktyf.rfxfkjd@googlemail.com,boulevard Nevsky ave. 219,,Geneva,Moscow Oblast,id_00211,False
+r0000391,2025-01-28,Alyona,Kachalov,alyonakachalov+spam@gmail.com,пр-т Oak 206,,zuerich,Dubai,id_00171,True
+r0000395,2024-08-26,Polina,Качалов,polina.rfxfkjd@googlemail.com,Boulevard pushkina boulevard 107,корпус 95,Zuerich,geneva,id_00172,True
+r0000066,2024-11-01,Dmitry,Lóзуя,lvbnhbq.lópez@hotmail.com,Pr-t tverskaya 189,,Москва,Geneva,id_00027,True
+r0000647,2024-04-24,Kirill,Петров,kirill.gtnhjd@mail.ru,ulitsa Elm lane 234 bldg 2,,Saint Petersburg,saint petersburg,id_00283,True
+r0000648,2023-03-28,Kirill,Петров,kirill.gtnhjd@yandex.ru,ulitsa Elm lane 234 building 2,,Saint Petersburg,Saint Petersburg,id_00283,False
+r0000157,2024-10-10,kшкшдд,Кузнецов,kirill.repytwjd@yandex.ru,vae Maple 63 корпсу 2,,Kraków,zh,id_00072,True
+r0000113,2023-10-24,Кирилл,Novák,rbhbkk.novák@yahoo.com,boulevard Central lane 142 building 5,,Берлин,Berlin,id_00051,False
+r0000049,2025-03-19,Artem,Kachalov,artem.kachalov@icloud.com,ave Nevsky rd 226,unit 81,Берлин,Moscow Oblast,id_00022,False
+r0000094,2025-02-05,Елена,Novák,tktyf.novák@proton.me,blvd Sheikh Zayed road 186,,Moscow,SPB,id_00041,False
+r0000506,2024-08-27,Yulia,Кузнецов,yulia.repytwjd@outlook.com,улица Elm avenue 231,,Saint Petersburg,GE,id_00227,False
+r0000522,2023-08-17,Alexei,Lebedev,alexei.lebedev@outlook.com,улица Elm 164 корпус 1,,Dubai,ZH,id_00231,False
+r0000142,2023-08-20,Alexander,Качалов,alexanderr.fxfkjd@outlook.com,pr-t Arbat st. 216,ап-256,Bукдшт,MAŁOPOLSKIE,id_00065,True
+r0000597,2024-09-07,Полина,Popov,gjkbyf.popov@hotmail.com,st Pushkina ave. 175 building 4,подъезд 122,Женева,Berlin,id_00260,False
+r0000625,2023-01-02,Yaroslav,Ivanova,yaroslav.ivanova@gmail.com,street Central st. 191,,Санкт-Петербург,Geneva,id_00272,False
+r0000409,2025-05-28,Iднф,Lebedev,bkmz.lebedev@proton.me,Blvd Tverskaya 238,,ДДубай,ZH,id_00180,True
+r0000439,2025-07-22,Anya,Garcia,anya.garcia@gmail.com,бул. Elm ave. 177 building 5,entrance 201,Dubai,Masovian,id_00194,False
+r0000270,2024-10-20,Yula,Pуекщм,yula.petrov@hotmail.com,бул. Central road 81,,Дубай,Geneva,id_00125,True
+r0000552,2023-06-06,Елена,Sánchez,tktyf.sánchez@googlemail.com,st Sheikh Zayed rd 16 корпус 1,,Praha,Lesser Poland,id_00244,False
+r0000657,2025-08-14,Sergei,Novak,sergei.novak@proton.me,пер. Nevsky 34,bldg 303,Geneva,DXB,id_00287,False
+r0000253,2024-04-12,Kirill,Соколов,kirill.cjrjkjd@mail.ru,ave Arbat 62 корпус 3,,Moscow,ZH,id_00115,False
+r0000671,2024-05-28,Дмитрий,Sánchez,lvbnhbq.sánchez@proton.me,boulevard Nevsky boulevard 209 building 2,,Zuerich,Berlin,id_00298,False
+r0000272,2024-12-26,Yula,Pуекщм,yula.petrov@hotmail.com,бул. Central road 81,,Дубай,Geneva,id_00125,True
+r0000147,2024-11-23,Kirill,Garcia,kirill.garcia@hotmail.com,ave Al Wasl ave. 149 building 4,лит.-177,Kraków,GE,id_00067,False
+r0000470,2024-03-18,Hernández,Alena,alena.hernández@outlook.com,ул. Oak 199 корпус 1,,Dubai,Zurich,id_00206,True
+r0000406,2025-01-16,NIKOLAI,novak,nikolai.novak@putook.com,пер. Central ave. 20,,МОСКВА,SPB,id_00179,True
+r0000512,2023-03-14,Кbhkk,Kuznetsov,rbhbkk.kuznetsov@yahoo.com,ул. Elm lane 3,,Praha,GENEVA,id_00228,True
+r0000218,2023-07-14,Volkov,Eутшы,denis.volkov@yahoo.com,lane Central 112 bldg 1,,Берлин,mazowieckie,id_00099,True
+r0000323,2023-03-03,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000581,2025-06-21,Sergey,Петров,sergey.gtnhjd@mail.ru,avenue Maple rd 48,,Berlin,MO,id_00254,False
+r0000217,2025-03-21,Denis,Volkov,denis.volkov@yahoo.com,lane Central 112 building 1,,Берлин,Mazowieckie,id_00099,False
+r0000068,2025-03-07,DIMA,O'Connor,dima.o'connor@jomail.com,пр-т Central sstreet 2111,,Saint Petersburg,BERLIN,id_00028,True
+r0000275,2024-06-08,Sergey,Kovács,sergey.kovács@googlemail.com,бул. Arbat street 199 building 3,квартира-314,Женева,Zurich,id_00126,False
+r0000411,2025-08-26,Елена,Лебедев,"tktyf.kt,tltd@mail.ru",пер. Pushkina ave. 102,,Kraków,Małopolskie,id_00182,False
+r0000324,2024-09-12,Sergei,Petrov,sergei.petrov@icloud.com,pr-t Zhukova st. 106 building 5,,Dubai,Zurich,id_00144,False
+r0000665,2024-05-25,Качаловв,Ilia,ilis.rfxfkjd@yahoo.com,ulitsa Al Wael 2003,,Praha,MO,id_00293,True
+r0000235,2024-07-10,Mariya,Качлоов,marri.rfxfkjd@mail.ru,blvdd Maple st 65,,Берлин,Lesser Poland,id_00106,True
+r0000058,2025-04-08,sasha,Симрнов,sasha.cbvhyjd@outlook.com,ave sheikh zayed 231,aap. 182,Dubai,zh,id_00026,True
+r0000333,2023-11-21,Yulia,Novák,yulia.novák@yandex.ru,бул. Maple road 210,,Saint Petersburg,Masovian,id_00147,False
+r0000225,2024-04-21,Саша,Кepytwjd,fktrcfylh.repytwjd@hotmail.com,ave Arbat ave 222 к. 3,,Zürich,Mazowieckie,id_00103,True
+r0000571,2025-04-29,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000277,2025-02-26,Mariya,Hernández,mariya.hernández@hotmail.com,улица Oak 231,,Дубай,DXB,id_00127,False
+r0000389,2023-04-20,Alyona,Kachalov,alyonakachalov+spam@gmail.com,пр-т Oak 206,,zuerich,Dubai,id_00171,True
+r0000474,2023-11-22,лександдр,Smirnov,fktrcfylh.smirnov@outlook.com,blvd Nevsky blvd 222,unit 170,Fuubai,BERLIN,id_00208,True
+r0000168,2025-03-21,Dутш,Sьшктщм,denis.smirnov@hotmail.com,blvd Sheikh Zayed boulevard 197,,Geneva,MO,id_00076,True
+r0000673,2025-05-12,Дмитрий,Sánchez,lvbnhbq.sánchez@proton.me,boulevard Nevsky boulevard 209 building 2,,Zuerich,Berlin,id_00298,False
+r0000547,2023-07-20,Aena,Kovács,alena.kovács@yahoo.com,st  Nevsky  st.  152,,Praha,DUBAI,id_00242,True
+r0000176,2024-06-06,Maria,Соколов,maria.cjrjkjd@proton.me,бул. Nevsky road 117 корпус 3,,Санкт-Петербург,Geneva,id_00081,False
+r0000074,2024-05-31,Aднщтф,Попов,alyona.gjgjd@outlook.com,blvd Elm 99,,Krakow,Moscow Oblast,id_00030,True
+r0000274,2025-04-23,Sergey,Kovács,sergey.kovács@googlemail.com,бул. Arbat street 199 building 3,квартира-314,Женева,Zurich,id_00126,False
+r0000215,2024-10-20,Denis,Volkov,denis.volkov@yahoo.com,lane Central 112 building 1,,Берлин,Mazowieckie,id_00099,False
+r0000364,2023-02-14,Кирилл,Volkov,rbhbkk.volkov@googlemail.com,blvd Zhukova ln. 109,,Berlin,Zurich,id_00162,False
+r0000380,2023-06-04,Алена,NoVaK,tktyt.ovak@hotmail.com,улица Oak rd 24,bldg-74,Kraków,MO,id_00168,True
+r0000167,2025-08-02,Denis,Smirnov,denis.smirnov@hotmail.com,blvd Sheikh Zayed boulevard 197,,Geneva,MO,id_00076,False
+r0000374,2023-07-28,Yaroslav,Novák,yaroslav.novák@yahoo.com,pr-t Sheikh Zayed ln. 82,unit #193,Женева,ZH,id_00166,False
+r0000465,2023-07-16,Kirill,Иванов,kirill.bdfyjd@icloud.com,ave Ленина ln. 74 корпус 2,лит. 282,Санкт-Петербург,berlin,id_00204,True
+r0000645,2024-07-14,Maria,Kachalov,maria.kachalov@proton.me,lane Pushkina 73 building 1,,Zürich,Masovian,id_00282,False
+r0000639,2023-07-22,Артем,Соколов,fhntv.cjrjkjd@outlook.com,lane Nevsky st. 188 корпус 3,кв.-64,Москва,Lesser Poland,id_00279,False
+r0000104,2024-11-03,maria,Lebedev,marialebedev@yahoo.com,ulitsa Победы ave. 174,подъезд 87,Бthkby,saint petersburg,id_00045,True
+r0000661,2024-05-18,Anna,Кузнецов,anna.repytwjd@yandex.ru,blvd Gagarina avenue 99 корпус 3,,Дубай,Geneva,id_00290,False
+r0000082,2024-09-20,Sasha,Соколов,sasha.cjrjkjd@gmail.com,проспект Pushkina blvd. 19 корпус 2,,Zuerich,Dubai,id_00035,False
+r0000297,2023-11-01,Yaroslav,Sokolov,yaroslav.sokolov@outlook.com,пер. Pushkina road 159 корпус 2,,Zuerich,Lesser Poland,id_00133,False
+r0000234,2024-10-05,Ilya,Лебедев,"ilya.kt,tltd@hotmail.com",st Central rd 235 building 3,подъезд 348,Warsaw,SPB,id_00105,False
+r0000047,2024-05-19,Polina,Popov,polina.popov@icloud.com,st Gagarina avenue 77,,Санкт-Петербург,SPB,id_00021,False
+r0000072,2023-01-19,YYarolsav,Kachalov,yaroslav.kachalov@googlemail.com,PR-T  GAGARINA  LN  85,,Санкт-Петербург,Małopolskie,id_00029,True
+r0000197,2025-08-14,Николай,López,ybrjkfq.lópez@mail.ru,street Maple rd 212 building 4,,Berlin,Masovian,id_00089,False
+r0000592,2023-04-12,Elena,Hernández,elena.hernández@googlemail.com,ave Elm lane 235 корпус 3,,Dubai,Saint Petersburg,id_00258,False
+r0000371,2023-06-07,Masha,Novák,masha.novák@hotmail.com,бул. Ленина road 77 корпус 1,кв. 321,Женева,MO,id_00165,False
+r0000301,2024-03-09,Nikolay,Ivanova,nikolay.ivanova@proton.me,lane Tverskaya 113 building 4,,Warsaw,Masovian,id_00134,True
+r0000566,2023-03-27,Ju;ia,López,julia.lópez@yahoo.com,pr-t Nevsky 26,bldg-284,Берлин,BE,id_00251,True
+r0000081,2024-12-12,Ярослав,Ivanova,zhjckfd.ivanova@gmail.com,ave Elm avenue 163,,Zürich,Dubai,id_00034,False
+r0000388,2025-03-18,Anna,Kovács,anna.kovács@outlook.com,street Zhukova ave. 181,,Praha,BE,id_00170,False
+r0000128,2024-11-16,Дмтирий,Волков,lvbnhbq.djkrjd@gmail.com,бул. gagarina lane 235 к. 1,,Женева,Masovian,id_00061,True
+r0000550,2025-05-26,Анна,Кfxfkjd,fyyf.5fxfkjd@mail.ru,ave  Nevsky  lane  10,корпус  198,Waarrsaw,Zurich,id_00243,True
+r0000471,2025-07-17,Александр,Lebedev,fktrcfylh.lebedev@proton.me,avenue Elm street 153,,Санкт-Петербург,Dubai,id_00207,True
+r0000045,2023-04-13,Polina,Popov,polina.popov@icloud.com,st Gagarina avenue 77,,Санкт-Петербург,SPB,id_00021,False
+r0000271,2023-09-10,Yula,Pуекщм,yula.petrov@hotmail.com,бул. Central road 81,,Дубай,Geneva,id_00125,True
+r0000619,2024-05-04,Денис,Kuznetsov,ltybc.kuznetsov@gmail.com,ave Победы avenue 183,suite 30,Warsaw,Dubai,id_00269,False
+r0000353,2024-03-05,Ilya,Volkov,ilya.volkov@googlemail.com,бул. Zhukova rd 20,,Warsaw,GE,id_00157,False
+r0000368,2024-09-15,Сергей,Volkov,cthutq.volkov@outlook.com,street Elm st. 194 корпус 1,unit-120,Warsaw,ZH,id_00164,False
+r0000100,2025-04-22,Denis,Petrov,denis.petrov@outlook.com,street Nevsky lane 172,,Санкт-Петербург,DXB,id_00044,False
+r0000390,2023-06-29,Alyona,Kachalov,alyona.kachalov@gmail.com,проспект Oak 206,,Zuerich,Dubai,id_00171,False
+r0000095,2024-08-17,Mariya,Hernández,mariya.hernández@outlook.com,проспект Nevsky 67,,Berlin,Małopolskie,id_00042,False
+r0000670,2023-11-13,Nikolay,Novák,nikolay.novák@icloud.com,boulevard Elm 247 корпус 1,,Krakow,Geneva,id_00297,False
+r0000345,2023-04-24,Дмитрий,Ivanov,lvbnhbq.ivanov@proton.me,lane Central blvd. 76,,Warsaw,SPB,id_00153,False
+r0000221,2024-07-02,Masha,Sьшктщм,masha.smirnov@mail.ru,street Nevsky ave. 40 bldg 1 б. 289,б. 41,Warsaw,Mazowieckie,id_00101,True
+r0000160,2024-01-27,Dмщřřáл,DDenis,ltybc.dvořák@googlemail.com,PR-T ZHUKOVA ST 117 BUILDING 3,,Praha,BE,id_00074,True
+r0000650,2023-12-08,Kirill,Петров,kirill.gtnhjd@mail.ru,ulitsa Elm lane 234 bldg 2,,Saint Petersburg,saint petersburg,id_00283,True
+r0000349,2024-01-22,Polina,Novak,polina.novak@hotmail.com,avenue Zhukova st. 16,кв.-208,Санкт-Петербург,BE,id_00155,False
+r0000666,2024-04-25,Nikolay,kгятуеыщм,nikolay.kuznetsov@hotmail.com,бул. Sheikh Zayed ave. 154,б. 59,Zueriich,moscow oblast,id_00294,True
+r0000164,2024-08-16,Alex,O'Connor,alex.o'connor@yahoo.com,blvd Maple street 3,лит. #147,Praha,ZH,id_00075,False
+r0000007,2024-03-13,Alexei,Качалов,alexei.rfxfkjd@googlemail.com,ave Al Wasl avenue 159,,Saint Petersburg,ZH,id_00003,False
+r0000285,2024-05-23,Кирилл,Popov,rbhbkk.popov@yandex.ru,lane Zhukova lane 135 корпус 2,apt-65,Saint Petersburg,GE,id_00129,False
+r0000604,2023-05-13,Полина,Кузнеов,gjkbyf.repy5wjd@yandex.ru,пр-т Elm road 163,suite 1199,Geneva,DXB,id_00264,True
+r0000460,2024-03-01,Маша,Петров,vfhbz.gtnhjd@proton.me,avenue Zhukova 131 к. 2,,Дубай,Geneva,id_00201,True
+r0000226,2025-05-06,Anya,Petrov,anya.petrov@iclou.com,ulitsa Oak 208,кв. #21,gутумф,ge,id_00104,True
+r0000430,2023-05-27,Полина,O'Connor,gjkbyf.o'connor@yandex.ru,пер. Maple rd 30 корпус 1,кв. 350,Geneva,Zurich,id_00190,False
+r0000669,2024-01-15,Maria,Smirnov,maria.smirnov@yandex.ru,boulevard Ленина st. 31 building 4,,Москва,Saint Petersburg,id_00296,False
+r0000204,2024-02-22,Полина,Sánchez,gjkbyf.sánchez@icloud.com,пер. Победы rd 90,корпус #36,Moscow,SPB,id_00093,False
+r0000575,2024-12-02,Maria,Ivanov,maria.ivanov@icloud.com,street Nevsky avenue 75,,Berlin,SPB,id_00253,False
+r0000028,2023-09-17,Артем,Ivanova,fhntv.ivanova@googlemail.com,avenue Tverskaya ave. 142,,Москва,ZH,id_00013,False
+r0000617,2024-09-28,Артем,Smirnov,fhntv.smirnov@icloud.com,boulevard Sheikh Zayed street 183 building 3,,Geneva,BE,id_00267,False
+r0000518,2023-05-20,Alexei,Lbedev,alexei.lebedev@putlook.com,ул. Elm 164 корпус 1,,Dubai,zh,id_00231,True
+r0000239,2024-12-18,Julia,Popov,julia.popov@yandex.ru,st Nevsky 213 building 5,,Praha,ZH,id_00109,False
+r0000224,2024-03-27,Николай,Ivanova,ybrjkfq.ivanova@gmail.com,проспект Oak avenue 78,,Geneva,GE,id_00102,False
+r0000096,2024-05-22,Mariya,Hernández,mariya.hernández@outlook.com,пр-т Nevsky 67,б. 56,Berlin,Małopolskie,id_00042,True
+r0000031,2024-11-29,Sasha,Hernández,sasha.hernández@yandex.ru,avenue Arbat ln. 61 building 3,квартира #277,Женева,ZH,id_00014,False
+r0000033,2024-10-30,sokolov,Sergei,ergeisokolov@gogoleemail.com,ул. Arbat ave 111 bbldg 3,entrance 114,Krakóww,Mazowieckie,id_00015,True
+r0000433,2023-12-03,Kirill,O'Connor,kirill.o'connor@proton.me,lane Arbat blvd. 204 building 4,,Berlin,Dubai,id_00191,False
+r0000605,2025-01-19,Полина,Кузнецов,gjkbyf.repytwjd@yandex.ru,проспект Elm road 163,suite 191,Geneva,DXB,id_00264,False
+r0000090,2023-07-12,Aдутф,СVBHYJD,alena.cvbhyjd@proton.me,пер. maple road 138,,Женева,Moscow Oblqst,id_00040,True
+r0000559,2025-06-15,Kirill,Petrov,kirill.petrov@googlemail.com,st Zhukova 243 корпус 2,,Warsaw,ZH,id_00246,False
+r0000105,2023-11-07,maria,Lebedev,marialebedev@yahoo.com,ulitsa Победы ave. 174,подъезд 87,Бthkby,saint petersburg,id_00045,True
+r0000143,2023-05-19,Alexande,Кfxffkjd,alexander.rfxfkjd@yandex.ru,pr-t Arbat st. 216,ап.-256,Berlin,Małopolskie,id_00065,True
+r0000229,2024-06-28,Anya,Petrov,anya.petrov@icloud.com,ulitsa Oak 208,кв. #21,Geneva,GE,id_00104,False
+r0000251,2023-07-30,Kшкшдд,Соколов,kirill.cjrjkjd@mail.ru,ave Arbat 62 корпус 3,,Moscow,zh,id_00115,True
+r0000282,2024-05-12,Anya,Сjrjkjd,anyacjrjkjd+shop@googlemail.com,ул.  Ленина  blvd.  36,,Dubaai,spb,id_00128,True
+r0000026,2025-01-25,Маша,Kovács,vfhbz.kovács@yanex.ru,avemue Al Wasl blvd. 79,лит.-191,Dubai,dubai,id_00011,True
+r0000115,2024-03-15,Мария,Garcia,vfhbz.garcia@yahoo.com,street Central 191,,Берлин,Saint Petersburg,id_00052,False
+r0000655,2023-09-20,Sergei,Novak,sergei.novak@proton.me,пер. Nevsky 34,bldg 303,Geneva,DXB,id_00287,False
