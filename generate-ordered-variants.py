@@ -805,7 +805,8 @@ def generate_variant_data(product_title: str) -> Dict:
     variant_attrs = generate_variant_attributes()
     
     return {
-        'variant_external_id': generate_external_id('VAR') if random.random() < 0.9 else None,
+        # 'variant_external_id': generate_external_id('VAR') if random.random() < 0.9 else None,
+        'variant_external_id': generate_external_id('VAR'),
         'variant_title': variant_title,
         'variant_sku': generate_sku(),
         'variant_price': generate_price(),
