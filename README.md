@@ -24,6 +24,26 @@ python generate-returned-variants.py --input datasets/test_duplicates_50k.csv --
 ```
 
 
+1. put maria_script.py to maria_script folder
+
+2. Run it to populate maria_script folder with Maria data tables
+```
+python maria_script.py
+```
+
+3. Run to generate ordered_variants table input file
+```
+python kirill_convert_maria_orders.py
+```
+
+3. Run to generate returned_variants table input file
+```
+python kirill_convert_maria_returns.py
+```
+
+
+
+
 
 python generate-ordered-variants.py --orders 5000 --out ./datasets/test_duplicates_5k.csv --seed 513
 python generate-returned-variants.py --input datasets/test_duplicates_5k.csv --out ./datasets/test_returnes_from_5k.csv --return-rate 0.15 --seed 3212
